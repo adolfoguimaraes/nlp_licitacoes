@@ -1,22 +1,24 @@
-from bertopic import BERTopic
-
 class ExtractTopics():
 
     def __init__(self,model='default'):
 
         if model == 'default':
-            self.bert_model = BERTopic(language='portuguese', min_topic_size=2, nr_topics="auto")
+            from bertopic import BERTopic
+            self.bert_model = BERTopic(language='portuguese', min_topic_size=5, nr_topics="auto")
 
         elif model == 'gpt':
             import openai
-            from bertopic.backend import OpenAIBackend
+            from bertopic.representation import OpenAI
+            from bertopic import BERTopic
 
-            client = openai.OpenAI(api_key="sk-...")
-            embedding_model = OpenAIBackend(client, "text-embedding-ada-002")
+            # Create your representation model
+            client = openai.OpenAI(api_key="sk-")
+            embedding_model = OpenAI(client) 
 
-            topic_model = BERTopic(embedding_model=embedding_model, language='portuguese', min_topic_size=2, nr_topics="auto")
+            self.bert_model = BERTopic(embedding_model=embedding_model, language='portuguese', min_topic_size=5, nr_topics="auto")
 
         elif model == 'zeroshot':
+            from bertopic import BERTopic
             from bertopic.representation import KeyBERTInspired
 
             zeroshot_topic_list = ["Aquisições Diretas",
@@ -27,7 +29,7 @@ class ExtractTopics():
                 embedding_model="thenlper/gte-small",
                 language="portuguese",
                 nr_topics="auto",
-                min_topic_size=2,
+                min_topic_size=5,
                 zeroshot_topic_list=zeroshot_topic_list,
                 zeroshot_min_similarity=.85,
                 representation_model=KeyBERTInspired())
@@ -38,8 +40,5 @@ class ExtractTopics():
         self.bert_model.fit_transform(text)
         topics = self.bert_model.get_topics()
         topics_info = self.bert_model.get_topic_info()
-        #new_topics = topic_model.reduce_outliers(abstracts, topics)
-        #topic_model.update_topics(docs, topics=new_topics)
-        
 
         return topics, topics_info
