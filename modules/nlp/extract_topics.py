@@ -42,3 +42,7 @@ class ExtractTopics():
         topics_info = self.bert_model.get_topic_info()
 
         return topics, topics_info
+    
+    def find_topics(self, find):
+        similar_topics, similarity = self.bert_model.find_topics(find, top_n=3)
+        return similar_topics
