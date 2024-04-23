@@ -1,0 +1,4391 @@
+
+SALVADOR • BAHIA • TERÇA-FEIRA, 
+12 DE JANEIRO DE 2021 
+
+ANO XXXIV | N º 7.895
+
+S U M Á R I O
+
+EXECUTIVO  2
+
+DECRETOS NUMERADOS  2
+
+DECRETOS SIMPLES 12
+
+CASA CIVIL - CC  14
+
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO - SEDUR  14
+
+SECRETARIA MUNICIPAL DE MOBILIDADE - SEMOB  14
+
+SUPERINTENDÊNCIA DO TRÂNSITO DO SALVADOR - TRANSALVADOR  14
+
+SECRETARIA MUNICIPAL DE ORDEM PÚBLICA - SEMOP  14
+
+SECRETARIA MUNICIPAL DE SUSTENTABILIDADE E RESILIÊNCIA - SECIS  14
+
+DEFESA CIVIL DE SALVADOR - CODESAL  15
+
+LICITAÇÕES  15
+
+SECRETARIA MUNICIPAL DE GESTÃO - SEMGE  15
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS  15
+
+SECRETARIA DE INFRAESTRUTURA E OBRAS PÚBLICAS - SEINFRA  16
+
+SUPERINTENDÊNCIA DE OBRAS PÚBLICAS DO SALVADOR - SUCOP  16
+
+CONTRATOS  17
+
+SECRETARIA MUNICIPAL DA EDUCAÇÃO - SMED  17
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS  17
+
+SECRETARIA DE INFRAESTRUTURA E OBRAS PÚBLICAS - SEINFRA  18
+
+SUPERINTENDÊNCIA DE OBRAS PÚBLICAS DO SALVADOR - SUCOP  18
+
+EDITAIS  19
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS  19
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.8952
+
+EXECUTIVO 
+
+DECRETOS NUMERADOS 
+
+DECRETO Nº 33.434 de 11 de janeiro de 2021
+
+Institui o Código de Tributação do Imposto Sobre 
+
+Serviços de Qualquer Natureza – CTISS, para 
+
+fins de identificação dos serviços prestados ou 
+
+tomados, indicados na Lista de Serviços do Anexo 
+
+I da Lei nº 7.186, de 27 de dezembro de 2006, e dá 
+
+outras providências. 
+
+O PREFEITO DO MUNICÍPIO DE SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições com fundamento no inciso V do art. 52 da Lei Orgânica do Município, e no art. 328 da Lei 
+
+nº 7.186, de 27 de dezembro de 2006, 
+
+DECRETA:
+
+Art. 1º Fica instituído na forma do Anexo Único deste Decreto, o Código de Tributação 
+
+do Imposto Sobre Serviços de Qualquer Natureza – CTISS, para fins de identificação dos serviços 
+
+prestados ou tomados, indicados na Lista de Serviços anexa à Lei nº 7.186, de 27 de dezembro de 
+
+2006, e a aplicação da alíquota de acordo com o Anexo III da Tabela de Receita nº II da referida 
+
+Lei, para apuração da base de cálculo do valor do imposto a recolher, seja pelo contribuinte ou o 
+
+responsável tributário.
+
+ 
+
+Art. 2º Quando da emissão da Nota Fiscal de Serviços Eletrônica – NFS-e ou da Nota 
+
+Fiscal do Tomador/Intermediário de Serviços Eletrônica – NFTS-e, o contribuinte deverá indicar 
+
+obrigatoriamente:
+
+I - o subitem da Lista de Serviços; e
+
+II - o CTISS relacionado ao subitem da Lista indicado no Anexo 
+
+Único deste Decreto.
+
+Art. 3º Quando da remessa do Recibo Provisório de Serviços – RPS no 
+
+campo CÓDIGO DE TRIBUTAÇÃO MUNICIPAL, o contribuinte deverá indicar os 07 (sete) 
+
+primeiros campos com o CTISS correspondente ao subitem da Lista.
+
+Parágrafo único.  Os contribuintes que emitem RPS e utilizarem as 
+
+situações constantes nas Regras de Negócios nº 8 ou 9 da IN nº 08/2013, devem 
+
+registar esses códigos no oitavo ao décimo primeiro “tag” CÓDIGO DE TRIBUTAÇÃO 
+
+MUNICIPAL.
+
+Art. 4º A Secretaria Municipal da Fazenda terá até 31 de janeiro de 
+
+2021 para adaptar seu sistema aos novos procedimentos estabelecidos neste Decreto.
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+
+GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 11 de janeiro de 2021.
+
+BRUNO SOARES REIS
+Prefeito
+
+ANA PAULA ANDRADE MATOS MOREIRA
+Secretária Municipal de Governo, em exercício
+
+GIOVANNA GUIOTTI TESTA VICTER
+Secretária Municipal da Fazenda
+
+DECRETO Nº 33.434 /2020 
+ANEXO ÚNICO
+
+TABELA DE CÓDIGOS DE TRIBUTAÇÃO DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER 
+NATUREZA – CTISS 
+
+CTISS Descrição
+Subitem 
+Lista de 
+Serviço
+
+Alíquota
+
+0000-0/01- locação de bens móveis 0.00 0
+0101-0/01- Análise de sistemas 1.01 5
+0101-0/02- Desenvolvimento de sistemas 1.01 5
+0102-0/01- Programação 1.02 5
+0102-0/02- Customização de programas 1.02 5
+0103-0/01- Processamento de dados 1.03 5
+0103-0/02- Provimento de acesso à internet 1.03 5
+0103-0/03- Provimento de conteúdo para a internet 1.03 5
+0103-0/04- Provimento de serviço de aplicação para internet 1.03 5
+0103-0/05- Hospedagem para a internet 1.03 5
+0103-0/06- Serviços de data center 1.03 5
+0103-0/07- Outros serviços de processamento de dados 1.03 5
+0104-0/01- Elaboração de programas de computadores 1.04 5
+0104-0/02- Elaboração de jogos eletrônicos 1.04 5
+0105-0/01- Licenciamento de uso de programa de computação 1.05 5
+0105-0/02- Cessão de direito de uso de programa de computação 1.05 5
+0106-0/01- Assessoria e Consultoria em informática 1.06 5
+0107-0/01- Suporte técnico em informática 1.07 5
+0107-0/02- Instalação ou gravação de programa de computação 1.07 5
+0107-0/03- Configuração de programa de computação 1.07 5
+0107-0/04- Instalação de banco de dados 1.07 5
+0107-0/05- Configuração de banco de dados 1.07 5
+0107-0/06- Manutenção de programa de computação 1.07 5
+0107-0/07- Manutenção de banco de dados 1.07 5
+0108-0/01- Planejamento de páginas eletrônicas 1.08 5
+0108-0/02- Confecção de páginas eletrônicas 1.08 5
+0108-0/03- Manutenção de páginas eletrônicas 1.08 5
+0108-0/04- Atualização de páginas eletrônicas 1.08 5
+
+0109-0/01
+
+Disponibilização, sem cessão definitiva, de conteúdos de 
+áudio, vídeo, imagem e texto por meio da internet, 
+respeitada a imunidade de livros, jornais e periódicos (exceto 
+a distribuição de conteúdos pelas prestadoras de Serviço de 
+Acesso Condicionado, de que trata a Lei no 12.485, de 12 de 
+setembro de 2011, sujeita ao ICMS.
+
+1,09 5
+
+0201-0/01-
+Serviços de pesquisas e desenvolvimento de qualquer 
+natureza.
+
+2.01 5
+
+0302-0/01- Cessão de direito de uso de sinais de propaganda 3.02 5
+0302-0/02- Cessão de direito de uso de marca 3.02 5
+0302-0/03- Cessão de direito de uso de som ou imagem 3.02 5
+0303-0/01- Exploração de salão de festas 3.03 5
+0303-0/02- Exploração de centro de convenções 3.03 5
+0303-0/03- Exploração de escritório virtual 3.03 5
+
+
+
+    
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 3
+0303-0/04- Exploração de stand 3.03 5 
+0303-0/05- Exploração de quadra esportiva 3.03 5 
+0303-0/06- Exploração de estádio 3.03 5 
+0303-0/07- Exploração de ginásio 3.03 5 
+0303-0/08- Exploração de auditório 3.03 5 
+0303-0/09- Exploração de casa de espetáculos 3.03 5 
+0303-0/10- Exploração de parque de diversões 3.03 5 
+0303-0/11- Exploração de canchas 3.03 5 
+
+0303-0/12- 
+
+Serviços de locação e cessão de uso de espaços destinados 
+instalação de  stands ou box em shoppings populares, feiras 
+shop e empreendimentos semelhantes, a cargo do 
+proprietário do empreendimento. 
+
+3.03 5 
+
+0303-0/13- 
+Exploração de outras instalações para realização de eventos 
+ou negócios de qualquer natureza. 
+
+3.03 5 
+
+0304-0/01- 
+
+Locação, sublocação, arrendamento, direito de passagem ou 
+permissão de uso, compartilhado ou não, de ferrovia, 
+rodovia, postes, cabos, dutos e condutos de qualquer 
+natureza. 
+
+3.04 5 
+
+0305-0/01- Cessão de andaimes 3.05 5 
+0305-0/02- Cessão de palco 3.05 5 
+0305-0/03- Cessão de coberturas ou tendas 3.05 5 
+0305-0/04- Cessão de outras estruturas de uso temporário 3.05 5 
+0401-0/01- Medicina 4.01 2 
+0401-0/02- Biomedicina 4.01 2 
+
+0401-0/03- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de medicina e 
+biomedicina 
+
+4.01 2 
+
+0402-0/01- 
+Análises clínicas, patológicas, citopatológica, de material 
+genético e congêneres. 
+
+4.02 2 
+
+0402-0/02- 
+Radioterapia, quimioterapia, hemoterapia, litotripsia e 
+congêneres. 
+
+4.02 2 
+
+0402-0/03- 
+Radiologia, endoscopia, ultrassonografia, ressonância  
+magnética,  radiologia, tomografia, eletricidade médica, 
+audiometria e congêneres. 
+
+4.02 2 
+
+0402-0/04- 
+
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de análises clínicas, 
+patologia, citopatológica, eletricidade médica, radioterapia, 
+quimioterapia, ultrassonografia, ressonância magnética, 
+radiologia, tomografia, eletricidade médica, audiometria e 
+congêneres. 
+
+4.02 2 
+
+0403-0/01- 
+Serviços de hospitais, clínicas, sanatórios, manicômios, casas 
+de saúde, prontos-socorros, ambulatórios e congêneres. 
+
+4.03 2 
+
+0403-0/02- 
+Serviço de atendimento a pessoa portadora de deficiência 
+prestado por  clínica especializada. 
+
+4.03 2 
+
+0403-0/03- 
+Serviços de laboratório, exceto análises clínicas, patológicas, 
+citopatológica e de material genético. 
+
+4.03 2 
+
+0403-0/04- 
+
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de hospitais, clínicas, 
+laboratórios, sanatórios, manicômios, casas de saúde, 
+prontos-socorros, ambulatórios e congêneres. 
+
+4.03 2 
+
+0404-0/01- Instrumentação cirúrgica 4.04 2 
+
+0404-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de instrumentação 
+cirúrgica. 
+
+4.04 2 
+
+0405-0/01- Acupuntura 4.05 2 
+
+0405-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de acupuntura. 
+
+4.05 2 
+
+0406-0/01- Enfermagem, inclusive serviços auxiliares. 4.06 2 
+
+0406-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de enfermagem, 
+inclusive serviços auxiliares. 
+
+4.06 2 
+
+0407-0/01- Serviços de manipulação de fórmulas 4.07 2 
+0407-0/02- Outros serviços farmacêuticos 4.07 2 
+
+0407-0/03- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços farmacêuticos. 
+
+4.07 2 
+
+0408-0/01- Terapia ocupacional, fisioterapia e fonoaudiologia. 4.08 2 
+
+0408-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de terapia ocupacional, 
+fisioterapia e fonoaudiologia. 
+
+4.08 2 
+
+0409-0/01- 
+Terapias de qualquer espécie destinadas ao tratamento 
+físico, orgânico e mental, inclusive RPG, reiki, shiatsu, 
+cromoterapia e outras. 
+
+4.09 2 
+
+0409-0/02- Serviços de reabilitação profissional 4.09 2 
+
+0409-0/03- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de terapias de qualquer 
+espécie destinadas ao tratamento físico, orgânico e mental. 
+
+4.09 2 
+
+0410-0/01- Nutrição 4.10 2 
+
+0410-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de nutrição. 
+
+4.10 2 
+
+0411-0/01- Obstetrícia 4.11 2 
+
+0411-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de obstetrícia 
+
+4.11 2 
+
+0412-0/01- Serviços odontológicos 4.12 2 
+
+0412-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de odontologia 
+
+4.12 2 
+
+0413-0/01- Ortóptica 4.13 2 
+
+0413-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de ortóptica 
+
+4.13 2 
+
+0414-0/01- Confecção de próteses sob encomenda 4.14 2 
+
+0414-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de próteses sob 
+encomenda 
+
+4.14 2 
+
+0415-0/01- Psicanálise 4.15 2 
+
+0415-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de psicanálise 
+
+4.15 2 
+
+0416-0/01- Psicologia 4.16 2 
+
+0416-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de psicologia 
+
+4.16 2 
+
+0417-0/01- 
+Serviços de casas de repouso e de recuperação, asilos e 
+congêneres. 
+
+4.17 2 
+
+0417-0/02- Serviços de creches ou congêneres 4.17 2 
+
+0417-0/03- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de casas de repouso e 
+de recuperação, creches, asilos    e congêneres. 
+
+4.17 2 
+
+0418-0/01- Inseminação artificial, fertilização in vitro e congêneres. 4.18 2 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.8954
+
+0418-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de inseminação 
+artificial, fertilização in vitro e congêneres. 
+
+4.18 2 
+
+0419-0/01- 
+Bancos de sangue, leite, pele, olhos, óvulos, sêmen e 
+congêneres. 
+
+4.19 2 
+
+0419-0/02- 
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de bancos de sangue, 
+leite, pele, olhos, óvulos, sêmen   e congêneres. 
+
+4.19 2 
+
+0420-0/01- 
+Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais 
+biológicos de qualquer espécie. 
+
+4.20 2 
+
+0420-0/02- 
+
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde para prestação de serviços de coleta de sangue, 
+leite, tecidos, sêmen, órgãos e materiais biológicos de 
+qualquer espécie. 
+
+4.20 2 
+
+0421-0/01- 
+Unidade de atendimento, assistência, tratamento móvel, 
+home care, e congêneres. 
+
+4.21 2 
+
+0421-0/02- 
+Serviços de UTI móvel, ambulância e remoção, por via aérea 
+ou terrestre, para atendimento, assistência ou tratamento à 
+saúde humana. 
+
+4.21 2 
+
+0421-0/03- 
+
+Convênio ou contrato celebrado com o SUS - Sistema Único 
+de Saúde, para prestação de serviço de unidade de 
+atendimento, assistência, tratamento móvel, home care, e 
+congêneres, bem como de UTI móvel, ambulância e 
+remoção, por via aérea ou terrestre, para atendimento, 
+assistência ou tratamento à saúde humana. 
+
+4.21 2 
+
+0422-0/01- 
+Planos de medicina de grupo ou individual e convênios para 
+prestação de assistência médica, hospitalar, odontológica, e 
+congêneres. 
+
+4.22 5 
+
+0423-0/01- 
+
+Outros planos de saúde que se cumpram através de serviços 
+de terceiros contratados, credenciados, cooperados ou 
+apenas pagos pelo operador do plano mediante indicação do 
+beneficiário. 
+
+4.23 5 
+
+0501-0/01- Medicina veterinária 5.01 2 
+0501-0/02- Zootecnia 5.01 2 
+
+0502-0/01- 
+Hospitais, clínicas, ambulatórios, prontos-socorros e 
+congêneres, na área veterinária. 
+
+5.02 2 
+
+0503-0/01- Serviços de laboratórios de análise na área veterinária. 5.03 2 
+
+0504-0/01- 
+Inseminação artificial, fertilização in vitro e congêneres na 
+área veterinária. 
+
+5.04 2 
+
+0505-0/01- 
+Bancos de sangue e de órgãos e congêneres na área 
+veterinária. 
+
+5.05 2 
+
+0506-0/01- 
+Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais 
+biológicos de qualquer espécie na área veterinária. 
+
+5.06 2 
+
+0507-0/01- 
+Unidade de atendimento, assistência ou tratamento móvel e 
+congêneres na área veterinária. 
+
+5.07 2 
+
+0508-0/01- Guarda, alojamento ou serviço congêneres, para animais. 5.08 2 
+
+0508-0/02- 
+Tratamento, embelezamento, tosquia ou serviço 
+congêneres, para animais 
+
+5.08 2 
+
+0508-0/03- Amestramento de animais 5.08 2 
+0508-0/04- Manejo de animais 5.08 2 
+
+0509-0/01- 
+Planos de saúde e de atendimento e assistência médico-
+veterinária 
+
+5.09 5 
+
+0601-0/01- Barbearia, cabeleireiros, manicuros, pedicuros e congêneres. 6.01 2 
+
+0602-0/01- Serviços de depilação ou congêneres 6.02 5 
+
+0602-0/02- Serviços de esteticistas, maquiagem e congêneres 6.02 5 
+0602-0/03- Serviços de tratamento de pele ou congêneres 6.02 5 
+0603-0/01- Banhos, duchas, sauna e congêneres 6.03 5 
+0603-0/02- Serviço de massagem ou congêneres 6.03 5 
+
+0603-0/03- Exploração de sanitários, exceto banheiros químicos móveis 6.03 5 
+
+0604-0/01- 
+Ginástica, musculação, dança, esportes, natação, artes 
+marciais e demais atividades de condicionamento físico 
+
+6.04 5 
+
+0605-0/01- Centros de emagrecimento, SPA e congêneres. 6.05 5 
+0606-0/01- Tatuagem, piercing e congêneres 6.06 5 
+0701-0/01- Engenharia, exceto execução material de obra 7.01 5 
+0701-0/02- Agronomia, exceto execução material de obra 7.01 5 
+
+0701-0/03- 
+Agrimensura ou congêneres, exceto execução material de 
+obra 
+
+7.01 5 
+
+0701-0/04- Arquitetura, exceto execução material de obra 7.01 5 
+0701-0/05- Geologia, exceto execução material de obra 7.01 5 
+
+0701-0/06- Urbanismo ou congêneres, exceto execução material de obra 7.01 5 
+
+0701-0/07- 
+Paisagismo ou congêneres, exceto execução material de 
+obra 
+
+7.01 5 
+
+0702-0/01- Construção de edificações residenciais de qualquer tipo 7.02 5 
+0702-0/02- Construção de edificações comerciais de qualquer tipo 7.02 5 
+0702-0/03- Construção de edificações industriais 7.02 5 
+0702-0/04- Construção de edificações destinadas a usos diversos 7.02 5 
+
+0702-0/05- 
+Montagem de edificações pré-moldadas ou pré-fabricadas 
+de qualquer material e de natureza permanente. 
+
+7.02 5 
+
+0702-0/06- Execução de obras em geral por contrato de administração 7.02 5 
+
+0702-0/07- 
+
+Construção de rodovias, ruas e de outras vias, inclusive de 
+praças, pontes, viadutos, túneis, elevados, calçadas, 
+passarelas, pistas de aeroportos e locais para 
+estacionamentos de veículos. 
+
+7.02 5 
+
+0702-0/08- Construção de vias férreas de superfície ou subterrâneas 7.02 5 
+0702-0/09- Construção de pistas de aeroportos 7.02 5 
+
+0702-0/10- 
+
+Pavimentação ou recapeamento de rodovias, ruas e outras 
+vias, inclusive de praças, pontes, viadutos, túneis, elevados, 
+calçadas, passarelas, pistas de aeroportos e locais para 
+estacionamentos de veículos 
+
+7.02 5 
+
+0702-0/11- 
+
+Execução de sinalização com pintura em rodovias, ruas e 
+outras vias, inclusive em praças, pontes, viadutos, túneis, 
+elevados,  passarelas,  calçadas, pistas de aeroportos e locais 
+para estacionamentos de veículos 
+
+7.02 5 
+
+0702-0/12- 
+
+Instalação de dispositivos de sinalização em obras de 
+edificações, rodovias, ruas e outras vias, inclusive em praças, 
+pontes, viadutos, túneis, elevados, calçadas, passarelas, 
+pistas de aeroportos e locais para estacionamentos de 
+veículos 
+
+7.02 5 
+
+0702-0/13- 
+Construção de barragens, represas, canais, diques e 
+congêneres 
+
+7.02 5 
+
+0702-0/14- 
+Construção de usinas, estações e subestações hidrelétricas, 
+eólicas, nucleares, termoelétricas e congêneres 
+
+7.02 5 
+
+0702-0/15- 
+Construção de redes de transmissão e distribuição de 
+energia elétrica 
+
+7.02 5 
+
+
+
+    
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 5
+0702-0/16- 
+
+Obras para implantação de serviços de telecomunicações, 
+inclusive instalação de equipamentos, torres, antenas e 
+complementos 
+
+7.02 5 
+
+0702-0/17- Construção de redes de telecomunicações 7.02 5 
+
+0702-0/18- 
+
+Construção de sistemas para o abastecimento de água, 
+inclusive reservatórios de distribuição, estações elevatórias 
+de bombeamento, linhas principais de adução e redes de 
+distribuição de água 
+
+7.02 5 
+
+0702-0/19- 
+Construção de redes de coleta de esgoto, inclusive de 
+interceptores 
+
+7.02 5 
+
+0702-0/20- Construção de estações de tratamento de esgoto 7.02 5 
+0702-0/21- Construção de estações de bombeamento de esgoto 7.02 5 
+0702-0/22- Construção de galerias pluviais 7.02 5 
+0702-0/23- Obras de irrigação 7.02 5 
+
+0702-0/24- 
+Construção de redes de transporte por dutos, tais como  
+oleodutos, gasodutos, minerodutos 
+
+7.02 5 
+
+0702-0/25- 
+Construção de portos, marinas, eclusas, canais de navegação 
+e congêneres 
+
+7.02 5 
+
+0702-0/26- Obras de enrocamentos 7.02 5 
+0702-0/27- Obras de aterro, exceto sanitário 7.02 5 
+
+0702-0/28- 
+Montagem de estruturas metálicas permanentes em obras 
+de  construção civil 
+
+7.02 5 
+
+0702-0/29- 
+Montagem e desmontagem de fôrmas para concreto em 
+obras de construção civil 
+
+7.02 5 
+
+0702-0/30- 
+Obras de montagem de instalações industriais tais como  
+refinarias, indústrias químicas. 
+
+7.02 5 
+
+0702-0/31- 
+Montagem ou instalação de equipamentos incorporados às 
+construções, como elevadores, escadas e esteiras rolantes, 
+portas automáticas e giratórias e congêneres 
+
+7.02 5 
+
+0702-0/32- 
+Serviços de operação e fornecimento de equipamentos para 
+transporte e elevação de cargas e pessoas para uso em obras 
+
+7.02 5 
+
+0702-0/33- 
+Serviços de escavação, transporte, depósito, nivelamento e 
+compactação de terras, para realização de uma obra 
+
+7.02 5 
+
+0702-0/34- 
+Os derrocamentos ou desmonte de rochas, exceto para 
+exploração e explotação de recursos minerais. 
+
+7.02 5 
+
+0702-0/35- 
+Obras de terraplanagem para construção civil, inclusive a 
+disponibilização de máquinas ou equipamentos com 
+operador para este fim 
+
+7.02 5 
+
+0702-0/36- Drenagem 7.02 5 
+0702-0/37- Rebaixamento de lençóis freáticos. 7.02 5 
+
+0702-0/38- 
+Sondagens, perfurações e furos, exceto para exploração e 
+explotação de recursos minerais. 
+
+7.02 5 
+
+0702-0/39- 
+Perfuração e construção de poços artesianos , cisternas, 
+fossas  e  congêneres. 
+
+7.02 5 
+
+0702-0/40- 
+
+Execução de fundações diversas para edifícios e outras obras 
+de engenharia civil, inclusive a cravação de estacas e a 
+disponibilização de máquinas ou equipamentos com 
+operador para estes fins 
+
+7.02 5 
+
+0702-0/41- Concretagem 7.02 5 
+
+0702-0/42- 
+Impermeabilização em edifícios e outras obras de 
+engenharia civil 
+
+7.02 5 
+
+0702-0/43- 
+Construção de dutos, condutos e cabeamento para 
+instalações telefônicas, redes de informática, televisão e 
+comunicações. 
+
+7.02 5 
+
+0702-0/44- 
+Construção de sistemas de eletricidade, iluminação e para-
+raios em imóveis 
+
+7.02 5 
+
+0702-0/45- 
+Construção de sistemas de iluminação e sinalização em vias 
+e próprios públicos, rodovias, ferrovias, portos, aeroportos e 
+congêneres 
+
+7.02 5 
+
+0702-0/46- 
+Construção de redes para distribuição de gases e fluidos 
+diversos 
+
+7.02 5 
+
+0702-0/47- 
+Construção de sistemas de alarme, prevenção e proteção 
+contra incêndio. 
+
+7.02 5 
+
+0702-0/48- 
+Construção de sistemas de aquecimento de água, ambientes 
+e congêneres  em imóveis 
+
+7.02 5 
+
+0702-0/49- Execução de obras hidráulicas e sanitárias 7.02 5 
+0702-0/50- Construção de sistemas de refrigeração central em imóveis 7.02 5 
+0702-0/51- Obras de alvenaria, chapisco, emboço e reboco 7.02 5 
+
+0702-0/52- 
+Colocação de revestimentos de cerâmica, azulejo, mármore, 
+granito, pedras   e outros materiais em obras de engenharia 
+
+7.02 5 
+
+0702-0/53- 
+Instalação de esquadrias de metal, de madeira ou de 
+qualquer outro material em obra de engenharia 
+
+7.02 5 
+
+0702-0/54- 
+Colocação de vidros, cristais e espelhos em obras de 
+construção civil 
+
+7.02 5 
+
+0702-0/55- Instalação de revestimento em dutos e tubulações 7.02 5 
+0702-0/56- Serviços de pintura em obras de construção civil 7.02 5 
+
+0702-0/57- 
+Execução de trabalhos em madeira em obras de construção 
+civil 
+
+7.02 5 
+
+0702-0/58- 
+Serviços de acabamento em gesso, estuque e outros 
+materiais em obras de construção civil 
+
+7.02 5 
+
+0702-0/59- 
+Outras obras de engenharia não especificadas 
+anteriormente 
+
+7.02 5 
+
+0702-0/60- Tratamentos térmicos, acústicos ou de vibração 7.02 5 
+
+0703-0/01- 
+Elaboração de planos diretores relacionados com serviços e 
+obras de engenharia 
+
+7.03 5 
+
+0703-0/02- 
+Elaboração de estudos de viabilidade relacionados com 
+serviços e obras de engenharia 
+
+7.03 5 
+
+0703-0/03- 
+Elaboração de estudos organizacionais e outros, 
+relacionados com serviços  e obras de engenharia 
+
+7.03 5 
+
+0703-0/04- 
+Elaboração de anteprojetos, projetos básicos e projetos 
+executivos para trabalhos de engenharia 
+
+7.03 5 
+
+0703-0/05- 
+Outros serviços de engenharia consultiva relacionados com 
+serviços e obras de engenharia 
+
+7.03 5 
+
+0704-0/01- Demolição e desmonte de estruturas e construções 7.04 5 
+
+0705-0/01- Reparação, conservação e reforma de edifícios e congêneres 7.05 5 
+
+0705-0/02- 
+Reparação, conservação e reforma de estradas, pontes, 
+viadutos, tuneis e congêneres 
+
+7.05 5 
+
+0705-0/03- Operação "tapa buracos" em vias em geral 7.05 5 
+0705-0/04- Reparação, conservação e reforma de portos e congêneres 7.05 5 
+0705-0/05- Reparação, conservação e reforma de imóveis em geral 7.05 5 
+
+0705-0/06- 
+Execução de reforço de fundações para edifícios e outras 
+obras de engenharia civil 
+
+7.05 5 
+
+0705-0/07- 
+
+Reparação, conservação e reforma de ruas e de outros  
+logradouros,  inclusive de praças, pontes, viadutos, túneis, 
+elevados, calçadas, passarelas, pistas de aeroportos e locais 
+para estacionamentos de veículos 
+
+7.05 5 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.8956
+
+0705-0/08- 
+Reparação, conservação e reforma de vias férreas de 
+superfície ou subterrâneas 
+
+7.05 5 
+
+0705-0/09- 
+
+Reparação, conservação e reforma de sinalização com 
+pintura em rodovias, ruas e outras vias, inclusive em praças, 
+pontes, viadutos, túneis, elevados, passarelas, calçadas, 
+pistas de aeroportos e locais para estacionamentos de 
+veículos 
+
+7.05 5 
+
+0705-0/10- 
+Reparação, conservação e reforma de barragens, represas, 
+canais, diques e congêneres 
+
+7.05 5 
+
+0705-0/11- 
+Reparação, conservação e reforma de usinas, estações e 
+subestações hidrelétricas, eólicas, nucleares, termoelétricas 
+e congêneres 
+
+7.05 5 
+
+0705-0/12- 
+Reparação, conservação e reforma de redes de transmissão 
+e distribuição de energia elétrica 
+
+7.05 5 
+
+0705-0/13- 
+
+Reparação, conservação e reforma de sistemas para o  
+abastecimento  de água, inclusive reservatórios de 
+distribuição, estações elevatórias de bombeamento, linhas 
+principais de adução e redes de distribuição de água 
+
+7.05 5 
+
+0705-0/14- 
+Reparação e reforma de redes de coleta, estações de 
+tratamento e bombeamento de esgoto, inclusive de 
+interceptores 
+
+7.05 5 
+
+0705-0/15- Reparação e reforma de galerias pluviais 7.05 5 
+
+0705-0/16- 
+Reparação e reforma de redes de transporte por dutos, tais 
+como oleodutos, gasodutos e minerodutos 
+
+7.05 5 
+
+0705-0/17- 
+Reparação e reforma de dutos, condutos e cabeamento para 
+instalações telefônicas, redes de informática, televisão e 
+comunicações. 
+
+7.05 5 
+
+0705-0/18- 
+Reparação, conservação e reforma de portos, marinas, 
+eclusas, canais de navegação e congêneres 
+
+7.05 5 
+
+0705-0/19- 
+Reparação e reforma de estruturas metálicas permanentes 
+em obras de construção civil 
+
+7.05 5 
+
+0705-0/20- 
+Reparação e reforma de redes para distribuição de gases e 
+fluidos diversos 
+
+7.05 5 
+
+0705-0/21- 
+Reparação e reforma de isolamentos térmicos, acústicos ou 
+de vibração 
+
+7.05 5 
+
+0706-0/01- 
+Colocação de tapetes, carpetes, assoalhos, piso flutuante e 
+congêneres, com material fornecido pelo tomador do 
+serviço. 
+
+7.06 5 
+
+0706-0/02- 
+Instalação de cortinas com material fornecido pelo tomador 
+do serviço. 
+
+7.06 5 
+
+0706-0/03- 
+Colocação de revestimentos de parede com  material  
+fornecido  pelo tomador do serviço. 
+
+7.06 5 
+
+0706-0/04- 
+Instalação de vidros com material fornecido pelo tomador do 
+serviço. 
+
+7.06 5 
+
+0706-0/05- 
+Instalação de divisórias com material fornecido pelo 
+tomador do serviço. 
+
+7.06 5 
+
+0706-0/06- 
+Instalação de placas de gesso com material fornecido pelo 
+tomador do serviço. 
+
+7.06 5 
+
+0706-0/07- 
+Instalações de acessórios e complementos em bens imóveis 
+com material fornecido pelo tomador do serviço 
+
+7.06 5 
+
+0707-0/01- 
+Recuperação, raspagem, polimento, lustração de pisos e 
+congêneres 
+
+7.07 5 
+
+0707-0/02- Aplicação de sinteco 7.07 5 
+0708-0/01- Calafetação 7.08 5 
+0709-0/01- Varrição de lixo, rejeitos e outros resíduos quaisquer. 7.09 5 
+
+0709-0/02- 
+Coleta e remoção de lixo, entulhos, rejeitos e outros resíduos 
+quaisquer 
+
+7.09 5 
+
+0709-0/03- 
+Coleta e remoção de lixo, entulhos, rejeitos e outros resíduos 
+quaisquer por meio de caçambas 
+
+7.09 5 
+
+0709-0/04- 
+Incineração, tratamento, reciclagem e separação de lixo, 
+rejeitos e outros resíduos quaisquer. 
+
+7.09 5 
+
+0709-0/05- 
+Coleta, tratamento ou remoção de rejeitos e outros resíduos 
+quaisquer por meio de banheiros químicos 
+
+7.09 5 
+
+0709-0/06- 
+Destinação final de lixo, rejeitos e outros resíduos quaisquer,  
+inclusive aterro sanitário 
+
+7.09 5 
+
+0709-0/07- Gestão de redes de esgoto 7.09 5 
+0709-0/08- Descontaminação e outros serviços de gestão de resíduos 7.09 5 
+
+0710-0/01- 
+Limpeza de vias e logradouros públicos, parques, jardins e 
+congêneres. 
+
+7.10 5 
+
+0710-0/02- Limpeza de imóveis, chaminés, piscinas e congêneres. 7.10 5 
+0710-0/03- Manutenção e conservação de vias e logradouros. 7.10 5 
+
+0710-0/04- 
+Manutenção e conservação de imóveis, chaminés, piscinas, 
+parques, jardins e congêneres. 
+
+7.10 5 
+
+0711-0/01- Decoração 7.11 5 
+0711-0/02- Jardinagem, inclusive corte e poda de árvores. 7.11 5 
+
+0712-0/01- 
+Controle e tratamento de efluentes de qualquer natureza e 
+de  agentes  físicos, químicos e biológicos. 
+
+7.12 5 
+
+0713-0/01- 
+Dedetização, desinfecção, desinsetização, imunização, 
+higienização, desratização e congêneres em bens imóveis 
+
+7.13 5 
+
+0713-0/02- Pulverização e controle de pragas 7.13 5 
+0716-0/01- Florestamento, reflorestamento 7.16 5 
+0716-0/02- Adubação 7.16 5 
+0716-0/03- Semeadura 7.16 5 
+
+0716-0/04- 
+Outros serviços de agricultura e congêneres tais como 
+plantio, colheita, desmatamento, destocamento. 
+
+7.16 5 
+
+0717-0/01- Escoramento e serviços congêneres 7.17 2 
+0717-0/02- Contenção de encostas e serviços congêneres 7.17 2 
+
+0718-0/01- 
+Limpeza e dragagem de rios, portos, canais, baías, lagos, 
+lagoas, represas, açudes e congêneres. 
+
+7.18 5 
+
+0719-0/01- 
+Acompanhamento e fiscalização da execução de obras de 
+engenharia, arquitetura e urbanismo realizados no local da 
+obra 
+
+7.19 5 
+
+0720-0/01- Aerofotogrametria, inclusive interpretação 7.20 5 
+0720-0/02- Cartografia, geográficos, mapeamento ou congêneres 7.20 5 
+0720-0/03- Levantamentos topográficos ou congêneres 7.20 5 
+0720-0/04- Levantamentos batimétricos ou congêneres 7.20 5 
+
+0720-0/05- 
+Levantamentos geodésicos, geológicos, geofísicos e 
+congêneres. 
+
+7.20 5 
+
+0721-0/01- 
+
+Pesquisa, perfuração, cimentação, mergulho, perfilagem, 
+concretação, testemunhagem, pescaria, estimulação e 
+outros serviços relacionados com a exploração e explotação 
+de petróleo ou gás natural. 
+
+7.21 5 
+
+0721-0/02- 
+Serviços relacionados com a exploração recursos minerais, 
+exceto petróleo  e gás natural. 
+
+7.21 5 
+
+0722-0/01- Nucleação e bombardeamento de nuvens e congêneres. 7.22 5 
+0801-0/01- Ensino pré-escolar 8.01 2 
+
+0801-0/02- 
+Ensino fundamental e médio, inclusive supletivo, técnico e 
+tecnológico 
+
+8.01 5 
+
+0801-0/03- 
+Ensino superior, pós graduação, mestrado, doutorado e 
+congêneres 
+
+8.01 5 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 7
+0801-0/04- Ensino regular à distância 8.01 5 
+
+0801-0/05- 
+Serviços de intercâmbio cultural, educacional, profissional e 
+congêneres 
+
+8.01 5 
+
+0802-0/01- 
+Instrução e treinamento em geral, inclusive  de  
+desenvolvimento profissional e gerencial 
+
+8.02 5 
+
+0802-0/02- Cursos preparatórios para concursos, inclusive pré-vestibular 8.02 5 
+
+0802-0/03- 
+Orientação pedagógica, educacional e avaliação de 
+conhecimentos 
+
+8.02 5 
+
+0802-0/04- 
+Cursos técnicos, tecnológicos e profissionalizantes em geral, 
+exceto se  ensino regular 
+
+8.02 5 
+
+0802-0/05- 
+Cursos de música, dança, artes plásticas, cênicas, visuais, 
+circense e outros cursos de arte e cultura em geral 
+
+8.02 5 
+
+0802-0/06- 
+Cursos de natação, artes marciais, mergulho, equitação, 
+futebol, tênis, voleibol, alpinismo e outros cursos de esporte 
+em geral 
+
+8.02 5 
+
+0802-0/07- Cursos de idiomas 8.02 5 
+0802-0/08- Curso de formação de condutores 8.02 5 
+0802-0/09- Curso de pilotagem 8.02 5 
+0802-0/10- Cursos de informática 8.02 5 
+0802-0/11- Treinamento e instrução à distância 8.02 5 
+
+0901-0/01- 
+Hospedagem em hotel, pousada, pensão, albergue, 
+hospedaria, camping e congêneres 
+
+9.01 5 
+
+0901-0/02- 
+Hospedagem em apart-hotel, apart-service condominial, flat,  
+hotel residência, residence-service, suíte service, flat-hotel 
+ou congêneres 
+
+9.01 5 
+
+0901-0/03- Motéis, drive-in e congêneres 9.01 5 
+
+0902-0/01- 
+Agenciamento, intermediação e promoção de pacotes e 
+programas  turísticos, passeios, viagens, excursões,  
+hospedagens,  reservas  e  congêneres. 
+
+9.02 5 
+
+0902-0/02- 
+Organização e execução de pacotes e programas turísticos, 
+passeios,  viagens, excursões, traslados e congêneres. 
+
+9.02 5 
+
+0903-0/01- Guia de turismo 9.03 5 
+
+1001-0/01- 
+Agenciamento, corretagem e intermediação de planos de 
+saúde 
+
+10.01 5 
+
+1001-0/02- Agenciamento, corretagem e intermediação de câmbio 10.01 5 
+
+1001-0/03- 
+Agenciamento, corretagem e intermediação de  seguros,  
+inclusive estipulante 
+
+10.01 5 
+
+1001-0/04- 
+Agenciamento, corretagem e intermediação de cartões de 
+crédito ou débito 
+
+10.01 5 
+
+1001-0/05- 
+Agenciamento, corretagem e intermediação de planos de 
+previdência  privada 
+
+10.01 5 
+
+1002-0/01- Agenciamento de títulos em geral 10.02 5 
+1002-0/02- Corretagem de títulos em geral 10.02 5 
+1002-0/03- Intermediação de títulos em geral 10.02 5 
+1002-0/04- Agenciamento de valores mobiliários 10.02 5 
+1002-0/05- Corretagem de valores mobiliários 10.02 5 
+1002-0/06- Intermediação de valores mobiliários 10.02 5 
+1002-0/07- Agenciamento de contratos quaisquer 10.02 5 
+1002-0/08- Corretagem de contratos quaisquer 10.02 5 
+1002-0/09- Intermediação de contratos quaisquer 10.02 5 
+
+1003-0/01- 
+Agenciamento, corretagem ou intermediação de direitos de 
+propriedade industrial, artística ou literária. 
+
+10.03 5 
+
+1004-0/01- 
+Agenciamento de contratos de arrendamento mercantil 
+(leasing) 
+
+10.04 5 
+
+1004-0/02- 
+Corretagem de contratos de arrendamento mercantil 
+(leasing) 
+
+10.04 5 
+
+1004-0/03- 
+Intermediação de contratos de arrendamento mercantil 
+(leasing) 
+
+10.04 5 
+
+1004-0/04- Agenciamento de contratos de “faturização” (factoring) 10.04 5 
+1004-0/05- Corretagem de contratos de “faturização” (factoring) 10.04 5 
+1004-0/06- Intermediação de contratos de “faturização” (factoring) 10.04 5 
+
+1005-0/01- 
+
+Agenciamento, corretagem ou intermediação de bens 
+móveis, não  abrangidos em outros itens ou subitens, 
+inclusive aqueles realizados no âmbito de Bolsas de 
+Mercadorias e Futuros, por quaisquer meios. 
+
+10.05 5 
+
+1005-0/02- 
+Agenciamento, corretagem ou intermediação na compra, 
+venda e aluguel de bens imóveis não abrangidos em outros 
+itens ou subitens. 
+
+10.05 5 
+
+1005-0/03- 
+Serviços de intermediação ou agenciamento de venda de  
+produto  ou serviço, realizados mediante centrais de 
+teleatendimento 
+
+10.05 5 
+
+1005-0/04 
+Serviços de intermediação ou agenciamento de vale de  
+alimentação, combustíveis  e outros correlatos. 
+
+10.05 2 
+
+1005-0/05 Marketplace 10.05 5 
+1006-0/01- Agenciamento marítimo. 10.06 5 
+1007-0/01- Agenciamento de notícias. 10.07 5 
+
+1008-0/01- 
+Agenciamento de publicidade e propaganda, inclusive o 
+agenciamento de veiculação por quaisquer meios. 
+
+10.08 5 
+
+1009-0/01- Representação de qualquer natureza, inclusive comercial. 10.09 5 
+1010-0/01- Distribuição de bens de terceiros 10.10 5 
+
+1101-0/01- 
+Guarda e estacionamento de veículos terrestres 
+automotores, de aeronaves e de embarcações. 
+
+11.01 5 
+
+1102-0/01- Vigilância, segurança ou monitoramento de bens e pessoas. 11.02 5 
+
+1103-0/01- Escolta, inclusive de veículos e cargas. 11.03 5 
+
+1104-0/01- 
+Armazenamento, depósito e guarda de bens de qualquer 
+espécie 
+
+11.04 5 
+
+1104-0/02- Carga, descarga e arrumação de bens de qualquer espécie 11.04 5 
+1201-0/01- Espetáculos teatrais 12.01 3 
+1202-0/01- Exibições cinematográficas 12.02 5 
+1203-0/01- Espetáculos circenses 12.03 3 
+1204-0/01- Programas de auditório 12.04 5 
+1205-0/01- Parques de diversões, centros de lazer e congêneres. 12.05 5 
+
+1206-0/01- 
+
+Boates, taxi-dancing, night-club, danceterias, casas noturnas, 
+bares, restaurantes dançantes e outros estabelecimentos 
+similares com cobrança de ingresso, couvert artístico e 
+congêneres. 
+
+12.06 5 
+
+1206-0/02- 
+Gestão de espaços para artes cênicas, espetáculos e outras 
+atividades artísticas 
+
+12.06 5 
+
+1207-0/01- 
+Shows, ballet, danças, desfiles, bailes, óperas, concertos, 
+recitais, festivais e congêneres. 
+
+12.07 3 
+
+1207-0/02- 
+Serviços de iluminação, sonorização para casa de 
+espetáculos e ou  atividades artísticas, inclusive iluminação 
+cênica 
+
+12.07 3 
+
+1208-0/01- Feiras, exposições, congressos e congêneres. 12.08 5 
+
+1208-0/02- 
+Serviços de iluminação, sonorização de Feiras, exposições, 
+congressos e congêneres. 
+
+12.08 5 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.8958
+
+1209-0/01- Bilhar, sinuca, pebolim e outros jogos não eletrônicos 12.09 5 
+1209-0/02- Exploração de karts 12.09 5 
+1209-0/03- Boliche. 12.09 5 
+
+1209-0/04- 
+
+Divertimento eletrônico, inclusive vitrola automática, 
+cabines privê, jogos por computador, videogames, videokê e 
+demais equipamentos  acionados por fichas, cartões, ou 
+quaisquer outros dispositivos 
+
+12.09 5 
+
+1210-0/01- Corridas e competições de animais. 12.10 5 
+
+1211-0/01- 
+Competições esportivas ou de destreza física ou intelectual, 
+com ou sem a participação do espectador. 
+
+12.11 5 
+
+1212-0/01- Execução de música, individualmente ou por conjunto. 12.12 5 
+
+1213-0/01- 
+
+Produção, mediante ou sem encomenda prévia, de eventos, 
+espetáculos, entrevistas, shows, ballet, danças, desfiles, 
+bailes, teatros,  óperas,  concertos, recitais, festivais e 
+congêneres. 
+
+12.13 3 
+
+1214-0/01- 
+Fornecimento de música para ambientes fechados ou não, 
+mediante transmissão por qualquer processo 
+
+12.14 5 
+
+1215-0/01- 
+Desfiles de blocos carnavalescos ou folclóricos, trios  
+elétricos  e congêneres. 
+
+12.15 3 
+
+1216-0/01- 
+Exibição de filmes, entrevistas, musicais, espetáculos, shows, 
+concertos, desfiles, óperas, competições esportivas, de 
+destreza intelectual ou congêneres. 
+
+12.16 5 
+
+1217-0/01- 
+Recreação e animação, inclusive em festas e eventos de 
+qualquer natureza. 
+
+12.17 5 
+
+1302-0/01- 
+Gravação, trucagem, reprodução, edição e mixagem de sons, 
+fonografia, e congêneres 
+
+13.02 5 
+
+1302-0/02- Dublagem 13.02 5 
+
+1303-0/01- 
+Gravação, trucagem, reprodução e mixagem de  vídeos,  
+filmes,  e  congêneres 
+
+13.03 5 
+
+1303-0/02- Filmagens de festas e eventos 13.03 5 
+1303-0/03- Fotografia, revelação e ampliação fotográfica 13.03 5 
+1303-0/04- Cinematografia 13.03 5 
+1304-0/01- Serviços de reprografia em geral, inclusive plotagem 13.04 5 
+1304-0/02- Serviços de microfilmagem e digitalização em geral 13.04 5 
+
+1305-0/01- 
+Fotocomposição, clicheria, zincografia, litografia, 
+fotolitografia e outras matrizes gráficas 
+
+13.05 5 
+
+1305-0/02- Impressão e confecção de impressos em geral 13.05 5 
+1305-0/03- Serigrafia (silk-screen) e congêneres 13.05 5 
+
+1305-0/04- 
+Acabamento gráfico em geral, inclusive corte, recorte, dobra 
+e perfuração 
+
+13.05 5 
+
+1401-0/01- 
+
+Lubrificação, limpeza, lustração, revisão, conserto, 
+restauração, blindagem, manutenção e conservação de 
+motores, máquinas, aparelhos, equipamentos ou de 
+qualquer objeto (exceto peças e partes empregadas, que 
+ficam sujeitas ao ICMS). 
+
+14.01 5 
+
+1401-0/02- 
+
+Lubrificação, limpeza, lustração, revisão, conserto, 
+restauração, blindagem, alinhamento, balanceamento, 
+manutenção e conservação de embarcações, aeronaves e 
+veículos em geral (exceto peças e partes  empregadas,  que  
+ficam sujeitas ao ICMS). 
+
+14.01 5 
+
+1401-0/03- 
+
+Lubrificação, limpeza, lustração, revisão, conserto, 
+restauração, blindagem, manutenção e conservação de 
+elevadores, esteiras, escadas rolantes e de outros 
+equipamentos de transporte e elevação (exceto peças e 
+partes empregadas, que ficam sujeitas ao ICMS). 
+
+14.01 5 
+
+1401-0/04- 
+Carga e recarga de extintores, cilindros, cartuchos de 
+impressão e outros objetos 
+
+14.01 5 
+
+1401-0/05- 
+Manutenção e conserto de aparelhos, equipamentos e 
+máquinas de estações  e de redes elétricas 
+
+14.01 5 
+
+1401-0/06- 
+Manutenção e conserto de aparelhos, de equipamentos e 
+máquinas de estações e de redes de telecomunicações 
+
+14.01 5 
+
+1401-0/07- 
+Manutenção e conserto de aparelhos, equipamentos e 
+máquinas de estações  e de redes hidráulicas e de 
+combustíveis em geral 
+
+14.01 5 
+
+1401-0/08- 
+Manutenção e conserto de aparelhos, equipamentos e 
+máquinas de sistemas de climatização em geral 
+
+14.01 5 
+
+1401-0/09- 
+Manutenção e conserto de aparelhos, computadores e 
+outros equipamentos   e aparelhos de informática e de 
+telecomunicação 
+
+14.01 5 
+
+1402-0/01- Assistência técnica 14.02 5 
+
+1403-0/01- 
+Retifica e recondicionamento de motores (exceto peças e  
+partes  empregadas, que ficam sujeitas ao ICMS). 
+
+14.03 5 
+
+1404-0/01- 
+Recauchutagem ou regeneração de pneus, inclusive serviços 
+de borracharia 
+
+14.04 5 
+
+1405-0/01- 
+Restauração, recondicionamento, e congêneres de objetos 
+quaisquer 
+
+14.05 5 
+
+1405-0/02- 
+Pintura, polimento, envelopamento e tratamento de 
+superfície de aeronaves, embarcações e veículos em geral 
+
+14.05 5 
+
+1405-0/03- 
+Pintura, tingimento, secagem, polimento e tratamento de 
+superfície de objetos em geral 
+
+14.05 5 
+
+1405-0/04- Beneficiamento de objetos quaisquer 14.05 5 
+
+1405-0/05- 
+Lavagem, higienização e imunização de aeronaves, 
+embarcações e veículos em geral 
+
+14.05 5 
+
+1405-0/06- 
+Lavagem, higienização, imunização e esterilização de objetos 
+quaisquer, exceto tecidos 
+
+14.05 5 
+
+1405-0/07- 
+Galvanoplastia, anodização, cromagem, zincagem, 
+tratamento  e  revestimento em geral de metais 
+
+14.05 5 
+
+1405-0/08- Restauração de objetos de arte 14.05 5 
+1405-0/09- Recondicionamento de baterias 14.05 5 
+
+1405-0/10- 
+Usinagem, solda, corte, recorte, dobra, estiramento e  
+torneamento  de  objetos quaisquer 
+
+14.05 5 
+
+1405-0/11- Plastificação em objetos quaisquer 14.05 5 
+
+1405-0/12- 
+Acondicionamento, envasamento, empacotamento e 
+congêneres 
+
+14.05 5 
+
+1406-0/01- 
+Instalação ou montagem de aparelhos, máquinas e 
+equipamentos, inclusive em plantas industriais, prestados ao 
+usuário final, exclusivamente com material por ele fornecido. 
+
+14.06 5 
+
+1406-0/02- 
+Instalação ou montagem de painéis, stands e outras 
+estruturas móveis, prestados ao usuário final, 
+exclusivamente com material por ele fornecido 
+
+14.06 5 
+
+1406-0/03- 
+Instalação de acessórios em geral para veículos, prestada ao 
+usuário final exclusivamente com material por ele fornecido. 
+
+14.06 5 
+
+1407-0/01- Colocação de molduras e congêneres. 14.07 5 
+
+1408-0/01- 
+Encadernação, gravação e douração de livros, revistas e 
+congêneres. 
+
+14.08 5 
+
+
+
+    
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 9
+
+1409-0/01- 
+
+Alfaiataria, confecção de roupas sob medida, costura, 
+bordado, conserto de roupas, pintura de tecidos e 
+congêneres quando o material for fornecido   pelo usuário 
+final, exceto aviamento. 
+
+14.09 5 
+
+1410-0/01- Tinturaria 14.10 5 
+1410-0/02- Lavanderia, inclusive secagem e higienização 14.10 5 
+1411-0/01- Tapeçaria e reforma de estofamentos em geral. 14.11 5 
+1412-0/01- Funilaria e lanternagem. 14.12 5 
+1413-0/01- Carpintaria 14.13 5 
+1413-0/02- Serralheria 14.13 5 
+1414-0/01 Guincho intramunicipal, guindaste e içamento 14.14 5 
+1501-0/01- Administração de fundos quaisquer 15.01 5 
+1501-0/02- Administração de consórcio 15.01 5 
+1501-0/03- Administração de cartão de crédito ou débito e congêneres 15.01 5 
+1501-0/04- Administração de carteira de clientes 15.01 5 
+1501-0/05- Administração de cheques pré-datados e congêneres 15.01 5 
+1502-0/01- Abertura de conta-corrente no país 15.02 5 
+1502-0/02- Abertura de contas de investimentos e aplicação no país 15.02 5 
+1502-0/03- Abertura de conta de poupança no país 15.02 5 
+
+1502-0/04- 
+Abertura de contas em geral no país não abrangidas em 
+outros  itens/subitens. 
+
+15.02 5 
+
+1502-0/05- Abertura de conta-corrente no exterior 15.02 5 
+1502-0/06- Abertura de contas de investimentos e aplicação no exterior 15.02 5 
+1502-0/07- Abertura de conta de poupança no exterior 15.02 5 
+
+1502-0/08- 
+Abertura de contas em geral no exterior não abrangidas em 
+outros itens / subitens. 
+
+15.02 5 
+
+1502-0/09- Manutenção de conta-corrente no país 15.02 5 
+
+1502-0/10- Manutenção de contas de investimentos e aplicação no país 15.02 5 
+
+1502-0/11- Manutenção de conta de poupança no país 15.02 5 
+
+1502-0/12- 
+Manutenção de contas em geral no país não abrangidas em 
+outros itens / subitens. 
+
+15.02 5 
+
+1502-0/13- Manutenção de conta-corrente no exterior 15.02 5 
+
+1502-0/14- 
+Manutenção de contas de investimentos e aplicação no 
+exterior 
+
+15.02 5 
+
+1502-0/15- Manutenção de conta de poupança no exterior 15.02 5 
+
+1502-0/16- 
+Manutenção de contas em geral no exterior não abrangidas 
+em outros itens / subitens. 
+
+15.02 5 
+
+1503-0/01- Locação de cofres particulares 15.03 5 
+1503-0/02- Manutenção de cofres particulares 15.03 5 
+1503-0/03- Locação de terminais eletrônicos 15.03 5 
+1503-0/04- Manutenção de terminais eletrônicos 15.03 5 
+1503-0/05- Locação de terminais de atendimento 15.03 5 
+1503-0/06- Manutenção de terminais de atendimento 15.03 5 
+1503-0/07- Locação de bens e equipamentos em geral 15.03 5 
+1503-0/08- Manutenção de bens e equipamentos em geral 15.03 5 
+1504-0/01- Fornecimento e emissão de atestado de idoneidade 15.04 5 
+
+1504-0/02- 
+Fornecimento e emissão de atestado de capacidade 
+financeira e congêneres 
+
+15.04 5 
+
+1504-0/03- 
+Fornecimento e emissão de atestados em geral não 
+abrangidas em outros itens/subitens. 
+
+15.04 5 
+
+1505-0/01- 
+Cadastro, elaboração e renovação de ficha cadastral e 
+congêneres 
+
+15.05 5 
+
+1505-0/02- 
+Inclusão no cadastro de emitentes de cheques sem fundos-
+ccf 
+
+15.05 5 
+
+1505-0/03- 
+Exclusão do cadastro de emitentes de cheques sem fundos-
+ccf 
+
+15.05 5 
+
+1505-0/04- Inclusão no cadastro de outros bancos cadastrais quaisquer 15.05 5 
+1505-0/05- Exclusão do cadastro de outros bancos cadastrais quaisquer 15.05 5 
+1506-0/01- Emissão, reemissão e fornecimento de avisos. 15.06 5 
+1506-0/02- Emissão, reemissão e fornecimento de comprovantes 15.06 5 
+
+1506-0/03- Emissão, reemissão e fornecimento de documentos em geral 15.06 5 
+
+1506-0/04- Abono de firmas 15.06 5 
+1506-0/05- Coleta de documentos, bens e valores 15.06 5 
+1506-0/06- Entrega de documentos, bens e valores 15.06 5 
+1506-0/07- Comunicação com outra agência 15.06 5 
+1506-0/08- Comunicação com a administração central 15.06 5 
+1506-0/09- Licenciamento eletrônico de veículos 15.06 5 
+1506-0/10- Transferência de veículos 15.06 5 
+1506-0/11- Agenciamento fiduciário 15.06 5 
+1506-0/12- Agenciamento depositário 15.06 5 
+1506-0/13- Devolução de bens em custódia 15.06 5 
+
+1507-0/01- 
+Acesso, movimentação, atendimento e consulta a contas em 
+geral por telefone 
+
+15.07 5 
+
+1507-0/02- 
+Acesso, movimentação, atendimento e consulta a contas em 
+geral por fac- símile 
+
+15.07 5 
+
+1507-0/03- 
+Acesso, movimentação, atendimento e consulta a contas em 
+geral via  internet 
+
+15.07 5 
+
+1507-0/04- 
+Acesso, movimentação, atendimento e consulta a contas por 
+telex 
+
+15.07 5 
+
+1507-0/05- 
+Acesso, movimentação, atendimento e consulta a contas em 
+geral, por qualquer meio ou processo não abrangidos em 
+outros itens/subitens. 
+
+15.07 5 
+
+1507-0/06- Acesso a terminais de atendimento, inclusive 24 horas 15.07 5 
+1507-0/07- Acesso a outro banco 15.07 5 
+1507-0/08- Acesso à rede compartilhada 15.07 5 
+
+1507-0/09- 
+Fornecimento de saldo, extrato e demais informações 
+relativas a contas em geral, por qualquer meio ou processo 
+não abrangidos em outros itens/subitens. 
+
+15.07 5 
+
+1507-0/10- Pacote / cesta de serviços bancários 15.07 5 
+1508-0/01- Emissão e reemissão de contrato de crédito 15.08 5 
+1508-0/02- Alteração de contrato de crédito 15.08 5 
+1508-0/03- Cessão de contrato de crédito 15.08 5 
+1508-0/04- Substituição de contrato de crédito 15.08 5 
+1508-0/05- Cancelamento de contrato de crédito 15.08 5 
+1508-0/06- Registro de contrato de crédito 15.08 5 
+1508-0/07- Estudo, análise e avaliação de operações de crédito 15.08 5 
+1508-0/08- Emissão de aval, fiança, anuência e congêneres 15.08 5 
+1508-0/09- Alteração de aval, fiança, anuência e congêneres 15.08 5 
+1508-0/10- Contratação de aval, fiança, anuência e congêneres 15.08 5 
+
+1508-0/11- 
+Serviços relativos a abertura de crédito não abrangidas em 
+outros itens/subitens, para quaisquer fins 
+
+15.08 5 
+
+1509-0/01- 
+Arrendamento mercantil (leasing) de quaisquer bens, 
+inclusive cessão de direitos e obrigações 
+
+15.09 5 
+
+1509-0/02- Substituição de garantia 15.09 5 
+1509-0/03- Alteração de contrato de leasing 15.09 5 
+1509-0/04- Cancelamento de contrato de leasing 15.09 5 
+1509-0/05- Registro de contrato de leasing 15.09 5 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.89510
+
+1509-0/06- 
+Demais serviços relacionados ao arrendamento mercantil 
+(leasing) 
+
+15.09 5 
+
+1510-0/01- 
+Serviços relacionados a cobranças e recebimentos em geral 
+de títulos quaisquer efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/02- 
+Serviços relacionados a cobranças e recebimentos de contas 
+em geral efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/03- 
+Serviços relacionados a cobranças e recebimentos de carnês 
+em geral efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/04- 
+Serviços relacionados a cobranças e recebimentos de câmbio 
+em geral efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/05- 
+Serviços relacionados a recebimentos de tributos em geral 
+efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/06- 
+Serviços relacionados a cobranças e recebimentos por conta 
+de terceiros em geral efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/07- 
+Serviços relacionados a pagamentos em geral de títulos 
+quaisquer efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/08- 
+Serviços relacionados a pagamentos de contas em geral 
+efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/09- 
+Serviços relacionados a pagamentos de carnês em geral 
+efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/10- 
+Serviços relacionados a pagamentos de câmbio em geral 
+efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/11- 
+Serviços relacionados a pagamentos de tributos em geral 
+efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/12- 
+Serviços relacionados a pagamentos por conta de terceiros 
+em geral efetuados por qualquer meio 
+
+15.10 5 
+
+1510-0/13- Fornecimento de posição de cobrança 15.10 5 
+1510-0/14- Fornecimento de posição de recebimento 15.10 5 
+1510-0/15- Fornecimento de posição de pagamento 15.10 5 
+1510-0/16- Emissão de carnês 15.10 5 
+1510-0/17- Emissão de fichas de compensação 15.10 5 
+1510-0/18- Emissão de impressos e documentos em geral 15.10 5 
+1511-0/01- Devolução de títulos 15.11 5 
+1511-0/02- Protesto de títulos 15.11 5 
+1511-0/03- Sustação de protesto 15.11 5 
+1511-0/04- Manutenção de títulos 15.11 5 
+1511-0/05- Reapresentação de títulos 15.11 5 
+1511-0/06- Demais serviços relacionados a títulos em cobrança 15.11 5 
+1512-0/01- Custódia em geral, inclusive de títulos e valores mobiliários 15.12 5 
+1513-0/01- Edição de contrato de câmbio 15.13 5 
+1513-0/02- Alteração de contrato de câmbio 15.13 5 
+1513-0/03- Prorrogação de contrato de câmbio 15.13 5 
+1513-0/04- Cancelamento de contrato de câmbio 15.13 5 
+1513-0/05- Baixa de contrato de câmbio 15.13 5 
+1513-0/06- Emissão de registro de exportação 15.13 5 
+1513-0/07- Emissão de registro de crédito 15.13 5 
+1513-0/08- Cobrança no exterior 15.13 5 
+1513-0/09- Depósito no exterior 15.13 5 
+1513-0/10- Emissão e fornecimento de cheques de viagem 15.13 5 
+1513-0/11- Cancelamento de cheques de viagem 15.13 5 
+1513-0/12- Fornecimento de carta de crédito de importação 15.13 5 
+1513-0/13- Transferência de carta de crédito de importação 15.13 5 
+1513-0/14- Cancelamento de carta de crédito de importação 15.13 5 
+1513-0/15- Demais serviços relativos à carta de crédito de importação 15.13 5 
+
+1513-0/16- Fornecimento de carta de crédito de exportação 15.13 5 
+1513-0/17- Transferência de carta de crédito de exportação 15.13 5 
+1513-0/18- Cancelamento de carta de crédito de exportação 15.13 5 
+1513-0/19- Demais serviços relativos à carta de crédito de exportação 15.13 5 
+1513-0/20- Serviços relativos a garantias recebidas 15.13 5 
+
+1513-0/21- 
+Envio de mensagens em geral relacionadas a operações de 
+câmbio 
+
+15.13 5 
+
+1513-0/22- 
+Recebimento de mensagens em geral relacionadas a 
+operações de câmbio 
+
+15.13 5 
+
+1513-0/23- Demais serviços relacionados à operação de câmbio 15.13 5 
+1514-0/01- Fornecimento, emissão e reemissão de cartão magnético 15.14 5 
+1514-0/02- Renovação de cartão magnético 15.14 5 
+1514-0/03- Manutenção de cartão magnético 15.14 5 
+1514-0/04- Fornecimento, emissão e reemissão de cartão de crédito 15.14 5 
+1514-0/05- Renovação de cartão de crédito 15.14 5 
+1514-0/06- Manutenção de cartão de crédito 15.14 5 
+1514-0/07- Fornecimento, emissão e reemissão de cartão de débito 15.14 5 
+1514-0/08- Renovação de cartão de débito 15.14 5 
+1514-0/09- Manutenção de cartão de débito 15.14 5 
+1514-0/10- Fornecimento, emissão e reemissão de cartão salário 15.14 5 
+1514-0/11- Renovação de cartão salário 15.14 5 
+1514-0/12- Manutenção de cartão salário 15.14 5 
+1514-0/13- Fornecimento, emissão e reemissão de cartões congêneres 15.14 5 
+1514-0/14- Renovação de cartões congêneres 15.14 5 
+1514-0/15- Manutenção de cartões congêneres 15.14 5 
+1515-0/01- Compensação de cheques 15.15 5 
+1515-0/02- Compensação de títulos quaisquer 15.15 5 
+
+1515-0/03- 
+Serviços relacionados a depósito, inclusive depósito 
+identificado 
+
+15.15 5 
+
+1515-0/04- 
+Serviços relacionados a saque de contas quaisquer, por 
+qualquer meio ou processo. 
+
+15.15 5 
+
+1516-0/01- 
+Emissão / reemissão de ordens de pagamento, ordens de 
+crédito e similares, por qualquer meio ou processo 
+
+15.16 5 
+
+1516-0/02- 
+Liquidação de ordens de pagamento, ordens de crédito e 
+similares, por qualquer meio ou processo 
+
+15.16 5 
+
+1516-0/03- 
+Alteração de ordens de pagamento, ordens de crédito e 
+similares, por qualquer meio ou processo 
+
+15.16 5 
+
+1516-0/04- 
+Cancelamento de ordens de pagamento, ordens de crédito e 
+similares, por qualquer meio ou processo 
+
+15.16 5 
+
+1516-0/05- 
+Baixa de ordens de pagamento, ordens de crédito e 
+similares, por qualquer meio ou processo 
+
+15.16 5 
+
+1516-0/06- 
+Serviços relacionados à transferência de valores,  dados,  
+fundos, pagamentos e similares 
+
+15.16 5 
+
+1517-0/01- Emissão de cheques quaisquer, avulso ou por talão 15.17 5 
+1517-0/02- Fornecimento de cheques quaisquer, avulso ou por talão 15.17 5 
+1517-0/03- Devolução de cheques quaisquer, avulso ou por talão 15.17 5 
+1517-0/04- Sustação de cheques quaisquer, avulso ou por talão 15.17 5 
+1517-0/05- Cancelamento de cheques quaisquer, avulso ou por talão 15.17 5 
+1517-0/06- Oposição de cheques quaisquer, avulso ou por talão 15.17 5 
+1518-0/01- Avaliação de imóvel 15.18 5 
+1518-0/02- Avaliação de obra 15.18 5 
+1518-0/03- Vistoria de imóvel 15.18 5 
+1518-0/04- Vistoria de obra 15.18 5 
+1518-0/05- Análise técnica relacionada ao crédito imobiliário 15.18 5 
+
+1518-0/06- Análise jurídica relacionada ao crédito imobiliário 15.18 5 
+1518-0/07- Emissão / reemissão de contrato de crédito imobiliário 15.18 5 
+1518-0/08- Alteração de contrato de crédito imobiliário 15.18 5 
+1518-0/09- Transferência de contrato de crédito imobiliário 15.18 5 
+1518-0/10- Renegociação de contrato de crédito imobiliário 15.18 5 
+1518-0/11- Emissão / reemissão de termo de quitação 15.18 5 
+1518-0/12- Outros serviços relacionados ao crédito imobiliário 15.18 5 
+
+1601-0/01- 
+Transporte público urbano de passageiros prestado sob o 
+regime de concessão ou permissão do poder público 
+
+16.01 5 
+
+1601-0/02- 
+Transporte público urbano de passageiros por taxi prestado 
+sob o regime de concessão ou permissão do poder público 
+
+16.01 5 
+
+1601-0/03- 
+Transporte municipal por qualquer meio de passageiros em 
+geral 
+
+16.01 5 
+
+1601-0/04- 
+Transporte ferroviário ou metroviário municipal de  
+passageiros  prestado sob regime de concessão ou permissão 
+do poder público 
+
+16.01 5 
+
+1601-0/05- Transporte escolar 16.01 5 
+1602-0/01- Serviços de mudança e congêneres 16.02 5 
+1602-0/02- Transporte municipal por qualquer meio de bens em geral 16.02 5 
+
+1701-0/01- 
+Assessoria ou consultoria de qualquer natureza, exceto 
+econômica, financeira, de imprensa, em informática ou 
+relacionada a operações de fatorização (factoring) 
+
+17.01 5 
+
+1701-0/02- 
+Análise, exame, pesquisa, coleta, compilação e fornecimento 
+de dados e informações de qualquer natureza, inclusive 
+cadastro e similares. 
+
+17.01 5 
+
+1701-0/03- Pesquisa de opinião pública 17.01 5 
+
+1702-0/01- 
+Datilografia, digitação, estenografia, expediente, secretaria 
+em geral,  redação, edição, interpretação, revisão, tradução, 
+e congêneres. 
+
+17.02 5 
+
+1702-0/02- 
+Logística em geral, apoio e infra-estrutura administrativa, e 
+congêneres. 
+
+17.02 5 
+
+1702-0/03- 
+Organização, arquivamento, conservação e gerenciamento 
+de documentos  de terceiros em quaisquer meios. 
+
+17.02 5 
+
+1702-0/04- Resposta audível (central de telemarketing) 17.02 2 
+
+1702-0/05- 
+Outras atividades de teleatendimento, exceto centrais de 
+telemarketing 
+
+17.02 2 
+
+1703-0/01- 
+Planejamento, coordenação, programação ou organização  
+técnica,  financeira ou administrativa. 
+
+17.03 5 
+
+1704-0/01- Recrutamento e seleção de mão de obra 17.04 5 
+1704-0/02- Agenciamento de mão de obra 17.04 5 
+1704-0/03- Colocação de mão de obra 17.04 5 
+
+1705-0/01- 
+Fornecimento de mão-de-obra não temporária contratados 
+pelo prestador do serviço 
+
+17.05 5 
+
+1705-0/02- 
+Fornecimento de mão-de-obra em caráter temporário, 
+inclusive de empregados ou trabalhadores, avulsos ou 
+temporários, contratados pelo prestador de serviço. 
+
+17.05 5 
+
+1706-0/01- 
+
+Propaganda e publicidade, inclusive promoção de vendas, 
+planejamento de campanhas ou sistemas de publicidade, 
+elaboração de desenhos, textos e demais materiais 
+publicitários. 
+
+17.06 5 
+
+1706-0/02- 
+Agenciamento e intermediação de veiculação de propaganda 
+e publicidade, inclusive anúncios e publicações em geral. 
+
+17.06 5 
+
+1708-0/01- Franquia (franchising) 17.08 5 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 11
+1709-0/01- 
+
+Perícias, laudos, vistorias, exames técnicos e análises 
+técnicas. 
+
+17.09 5 
+
+1710-0/01- 
+Planejamento, organização e administração de feiras,  
+exposições, congressos e congêneres. 
+
+17.10 5 
+
+1711-0/01- 
+Organização de festas e recepções; bufê (exceto o 
+fornecimento de alimentação e bebidas que fica sujeito ao 
+ICMS). 
+
+17.11 5 
+
+1711-0/02- Preparo de alimentos 17.11 5 
+1712-0/01- Administração de bens ou ativos de terceiros 17.12 5 
+1712-0/02- Administração de negócios de terceiros 17.12 5 
+1712-0/03- Administração de condomínios 17.12 5 
+1712-0/04- Administração em geral 17.12 5 
+1712-0/05- Administração de frota de veículo 17.12 5 
+1712-0/06- Administração de imóveis 17.12 5 
+1713-0/01- Leilão e congêneres 17.13 5 
+1714-0/01- Advocacia 17.14 5 
+1715-0/01- Arbitragem de qualquer espécie, inclusive jurídica 17.15 5 
+1716-0/01- Auditoria 17.16 5 
+1717-0/01- Análise de organização e métodos 17.17 5 
+1718-0/01- Atuária e cálculos técnicos de qualquer natureza. 17.18 5 
+1719-0/01- Contabilidade, inclusive serviços técnicos e auxiliares 17.19 5 
+1720-0/01- Consultoria e assessoria econômica ou financeira 17.20 5 
+1721-0/01- Estatística 17.21 5 
+1722-0/01- Cobrança em geral. 17.22 5 
+
+1723-0/01- 
+
+Assessoria, análise, avaliação, atendimento, consulta, 
+cadastro, seleção, gerenciamento de informações, 
+administração de contas a receber  ou  a  pagar e em geral, 
+relacionados a operações de faturização (factoring). 
+
+17.23 5 
+
+1724-0/01- 
+Apresentação de palestras, conferências, seminários e 
+congêneres. 
+
+17.24 5 
+
+1725-0/01 
+
+Inserção de textos, desenhos e outros materiais de 
+propaganda e publicidade, em qualquer meio (exceto em 
+livros, jornais, periódicos e nas modalidades de serviços de 
+radiodifusão sonora e de sons e imagens de recepção livre e 
+gratuita). 
+
+17.25 2 
+
+1801-0/01- 
+Serviços de regulação de sinistros vinculados a contratos de 
+seguros 
+
+18.01 5 
+
+1801-0/02- 
+Inspeção e avaliação de riscos para cobertura de contratos 
+de seguros 
+
+18.01 5 
+
+1801-0/03- Prevenção e gerência de riscos seguráveis e congêneres 18.01 5 
+1801-0/04- Gestão em co-seguro 18.01 5 
+
+1901-0/01- 
+
+Serviços de distribuição e venda de bilhetes e demais 
+produtos de loteria, bingos, cartões, pules ou cupons de 
+apostas, sorteios, prêmios, inclusive os decorrentes de 
+títulos de capitalização e congêneres 
+
+19.01 5 
+
+2001-0/01- 
+
+Serviços portuários, ferroportuários, utilização de porto, 
+movimentação de passageiros, reboque de embarcações, 
+rebocador escoteiro, atracação, desatracação, serviços de 
+praticagem, capatazia, armazenagem de qualquer natureza, 
+serviços acessórios, movimentação de mercadorias, serviços 
+de apoio marítmo, de movimentação ao largo, serviços de 
+armadores, estiva, conferência, logística e congêneres. 
+
+20.01 5 
+
+2002-0/01- 
+
+Serviços aeroportuários, utilização de aeroporto, 
+movimentação de passageiros, armazenagem de qualquer 
+natureza, capatazia, movimentação  de aeronaves, serviços 
+de apoio aeroportuários, serviços acessórios, movimentação 
+de mercadorias, logística e congêneres 
+
+20.02 5 
+
+2003-0/01- 
+Serviços de terminais rodoviários,  ferroviários,  
+metroviários,  movimentação de passageiros, mercadorias, 
+inclusive suas operações, logística e congêneres. 
+
+20.03 5 
+
+2101-0/01- Serviços de registros públicos, cartorários e notariais 21.01 5 
+
+2201-0/01- 
+
+Serviços de exploração de rodovia mediante cobrança de 
+preço ou pedágio dos usuários, envolvendo execução de 
+serviços de  conservação, manutenção, melhoramentos para 
+adequação de capacidade e segurança de trânsito, operação, 
+monitoração, assistência aos usuários e outros serviços 
+definidos em contratos, atos de concessão ou de permissão 
+ou em normas oficiais. 
+
+22.01 5 
+
+2301-0/01- 
+Serviços de programação e comunicação visual ou 
+congêneres 
+
+23.01 5 
+
+2301-0/02- Desenho industrial ou congênere, inclusive design de moda 23.01 5 
+
+2401-0/01- Serviços de chaveiros 24.01 5 
+2401-0/02- Confecção de carimbos 24.01 5 
+
+2401-0/03- 
+Confecção de placas, de sinalização visual, banners, adesivos  
+ou  congêneres 
+
+24.01 5 
+
+2501-0/01- 
+
+Funerais, inclusive fornecimento de caixão, urna ou esquifes; 
+aluguel de capela; transporte do corpo cadavérico; 
+fornecimento de flores, coroas e outros paramentos; 
+desembaraço de certidão de óbito; fornecimento de véu, 
+essa e outros adornos; embalsamento, embelezamento, 
+conservação ou restauração de cadáveres. 
+
+25.01 5 
+
+2502-0/01- Cremação de partes e/ou corpos cadavéricos 25.02 5 
+2503-0/01- Planos ou convênio funerários. 25.03 5 
+2504-0/01- Manutenção e conservação de jazigos e cemitérios. 25.04 5 
+
+2505-0/01 Cessão de uso de espaços em cemitérios para sepultamento. 25.05 5 
+
+2601-0/01- 
+Serviços de coleta, remessa ou entrega de correspondências, 
+documentos, objetos, bens ou valores, inclusive pelos 
+correios e suas agências franqueadas; courrier e congêneres. 
+
+26.01 5 
+
+2601-0/02- Serviços de coleta, remessa ou entrega de bens ou valores. 26.01 5 
+
+2601-0/03- Serviços de reboque e congêneres 26.01 5 
+
+2601-0/04- 
+Serviços de coleta ou entrega prestados por motoboy e 
+congêneres 
+
+26.01 5 
+
+2601-0/05- 
+Serviço de agenciamento prestados pelas Agências de  
+Correios  Franqueadas. 
+
+26.01 5 
+
+2701-0/01- Serviços de assistência social 27.01 5 
+2801-0/01- Avaliação de bens e serviços de qualquer natureza 28.01 5 
+2801-0/02- Avaliação de imóveis 28.01 5 
+2901-0/01- Serviços de biblioteconomia 29.01 2 
+3001-0/01- Serviços de biologia, biotecnologia e química. 30.01 5 
+3101-0/01- Serviços técnicos em edificações 31.01 5 
+3101-0/02- Serviços técnicos em eletrônica 31.01 5 
+3101-0/03- Serviços técnicos em eletrotécnica 31.01 5 
+3101-0/04- Serviços técnicos em mecânica 31.01 5 
+3101-0/05- Serviços técnicos em telecomunicações 31.01 5 
+3101-0/06- Serviços técnicos em geral 31.01 5 
+3101-0/07- Instalações elétricas em bens imóveis 31.01 5 
+
+3201-0/01- 
+Serviços de desenhos técnicos em geral, inclusive 
+arquitetônico e de engenharia 
+
+32.01 5 
+
+3301-0/01- 
+Serviços de desembaraço aduaneiro, comissários, 
+despachantes  e congêneres. 
+
+33.01 5 
+
+3401-0/01- 
+Serviços de investigações particulares, detetives e 
+congêneres. 
+
+34.01 5 
+
+3501-0/01- 
+Serviços de reportagem, assessoria de imprensa, jornalismo 
+e relações públicas. 
+
+35.01 5 
+
+3601-0/01- Serviços de meteorologia 36.01 5 
+3701-0/01- Serviços de artistas, atletas, modelos e manequins. 37.01 5 
+3801-0/01- Museologia 38.01 5 
+
+3901-0/01- 
+Serviços de ourivesaria e lapidação (quando o material for 
+fornecido pelo tomador do serviço). 
+
+39.01 5 
+
+4001-0/01- Serviços relativos a obras de arte sob encomenda 40.01 5 
+
+4002-0/01- 
+Veiculação em livros, jornais, periódicos e nas modalidades 
+de serviços de radiodifusão sonora e de sons e imagens de 
+recepção livre e gratuita 
+
+99.99 0 
+
+4003-0/01- outras situações de não incidência de ISS 99.99 0 
+
+ 
+ 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.89512
+
+DECRETOS SIMPLES
+
+DECRETOS de 11 de janeiro de 2021
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear FRANKLIN ALVES DE OLIVEIRA GOMES FILHO, parra exercer o cargo em 
+
+comissão de Diretor Geral, Grau 58, da Diretoria de Desenvolvimento Econômico, da Secretaria 
+
+Municipal de Desenvolvimento Econômico, Emprego e Renda.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear JAQSON SOUZA PEREIRA, para exercer o cargo em comissão de Assessor 
+
+Especial III, Grau 57, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, PÉRICLES 
+
+EDUARDO ROCHA MACHADO SILVA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear MURILO DIAS SAMPAIO, para exercer o cargo em comissão de Assessor Especial 
+
+IV, Grau 58, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, JAQSON SOUZA PEREIRA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear MARCO AURÉLIO GUIMARÃES ELPIDIO, para exercer o cargo em comissão de 
+
+Gerente de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro II – Subúrbio/Ilhas – 
+
+Diretoria das Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, 
+
+ALAN SANTOS MUNIZ.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear ANDRÉ LUIZ DE SOUZA MARACAJÁ, para exercer o cargo em comissão de 
+
+Gerente de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro V – Cidade Baixa – 
+
+Diretoria das Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, 
+
+CARLOS AUGUSTO DA SILVA GOMES.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear RAIMUNDO DE CASTRO PEREIRA, para exercer o cargo em comissão de Gerente 
+
+de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro VII – Liberdade/São Caetano – 
+
+Diretoria das Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, 
+
+JOÃO CARLOS NAVARRO AMARAL.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear ZILTON KRUGER NETTO, para exercer o cargo em comissão de Gerente de 
+
+Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro VI – BARRA/PITUBA – Diretoria das 
+
+Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, ANDRÉ LUIZ DE 
+
+SOUZA MARACAJÁ.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear ALAN SANTOS MUNIZ, para exercer o cargo em comissão de Gerente de 
+
+Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro Centro/Brotas – Diretoria das 
+
+Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, RAIMUNDO DE 
+
+CASTRO PEREIRA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear ALESSANDRO CASTRO DE SOUZA BASTOS, para exercer o cargo em comissão de 
+
+Gerente de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro III – Cajazeiras – Diretoria 
+
+das Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, KELLY 
+
+BARBOSA FIGUEIREDO MORAIS.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear EDMAR FERNANDES PRESA SOBRINHO, para exercer o cargo em comissão 
+
+de Gerente de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro IX – Pau da Lima – 
+
+Diretoria das Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, 
+
+ALESSANDRO CASTRO DE SOUZA BASTOS.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear JOÃO CARLOS NAVARRO AMARAL, para exercer o cargo em comissão de Gerente 
+
+de Prefeituras Bairro, Grau 57, da Gerência das Prefeituras-Bairro IV – Itapuã/Ipitanga – Diretoria das 
+
+Prefeituras-Bairro, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo, MARCO AURÉLIO 
+
+GUIMARÃES ELPIDIO.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear DEYVSON DE SANTANA COSTA, para exercer o cargo em comissão de Ouvidor 
+
+Setorial, Grau 57, da Secretaria Municipal de Políticas para Mulheres, Infância e Juventude e 
+
+exonerar, a pedido, do mesmo cargo, ADENILSON DOS SANTOS NASCIMENTO.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear ISABELA DE SOUSA PEREIRA, para exercer o cargo em comissão de Gerente III, 
+
+Grau 56, da Gerência Executiva das Ações para a Resiliência – Diretoria de Resiliência, da Secretaria 
+
+Municipal de Sustentabilidade e Resiliência e exonerar, a pedido, do mesmo cargo, RANDERSON DOS 
+
+SANTOS ALMEIDA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear RANDERSON DOS SANTOS ALMEIDA, para exercer o cargo em comissão de 
+
+Assessor Especial III, Grau 57, da Secretaria Municipal de Sustentabilidade e Resiliência.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear CELESTE BERTO CASTRO, parra exercer o cargo em comissão de Assessor 
+
+Especial II, Grau 56, da Secretaria de Governo.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Exonerar, a pedido, CELESTE BERTO CASTRO, do cargo em comissão de Coordenador I, da 
+
+Coordenadoria Administrativa – Gabinete do Vice-Prefeito.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear JAQUELINE PINHO SANTANA, parra exercer o cargo em comissão de Assessor 
+
+Especial III, Grau 57, da Secretaria de Governo e exonerar, a pedido, do mesmo cargo ELÁDIO 
+
+BARRETO SOUZA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 13
+R E S O L V E :
+
+Exonerar, a pedido, JAQUELINE PINHO SANTANA, do cargo em comissão de Assessor de 
+
+Projetos, da Assessoria Estratégica de Gestão – Gabinete do Vice-Prefeito.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Designar FERNANDA DAMASCENO SANTOS, Assessor Chefe I, para cumulativamente, 
+
+responder pelo cargo em comissão de Gestor de Núcleo II, Grau 54, do Núcleo de Execução 
+
+Orçamentária e Financeira – Assessoria Estratégica de Gestão, do Gabinete do Vice-Prefeito.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Considerar nomeado, desde 08/01/2021, HERMANO MELLO, para exercer o cargo em 
+
+comissão de Assessor Especial III, Grau 57, da Secretaria de Governo.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear PÉRICLES EDUARDO ROCHA MACHADO SILVA, para exercer o cargo em comissão 
+
+de Gerente, Grau 57, (LEI 8.653/2014-PMAT), da Secretaria Municipal de Gestão e exonerar, a pedido, 
+
+do mesmo cargo, EDMAR FERNANDES PRESA SOBRINHO.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+RESOLVE:
+
+Nomear DENISE GOMES DE CASTRO, para exercer o cargo em comissão de Coordenador, 
+
+Grau 57, do Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros 
+
+– PNAFM, da Secretaria Municipal da Fazenda.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Considerar nomeada, desde 01/01/2021, LAÍS DAS MERCÊS SILVA, para exercer o 
+
+cargo em comissão de Gerente III, Grau 56, da Gerência de Licenciamento Ambiental – Diretoria de 
+
+Licenciamentos, da Secretaria Municipal de Desenvolvimento Urbano.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+RESOLVE:
+
+Nomear RAVENA DE MELO LIMA, para exercer o cargo em comissão de Coordenador II, 
+
+Grau 55, da Secretaria Municipal Promoção Social, Combate à Pobreza, Esportes e Lazer.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+RESOLVE:
+
+Exonerar, a pedido, RAVENA DE MELO LIMA, do cargo em comissão de Subcoordenador 
+
+II, da Unidade de Ações de Alta Complexidade – Diretoria de Proteção Social Especial, da Secretaria 
+
+Municipal Promoção Social, Combate à Pobreza, Esportes e Lazer.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear FLÁVIA BITTENCOURT PAMPLONA, para exercer o cargo em comissão de 
+
+Assessor Especial II, Grau 56, da Secretaria Municipal de Promoção Social, Combate à Pobreza, 
+
+Esportes e Lazer e exonerar, a pedido, do mesmo cargo, LUCIANA PEREIRA DA SILVA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+
+atribuições,
+
+R E S O L V E :
+
+Nomear KELLY BARBOSA FIGUEIREDO MORAIS, para exercer o cargo em comissão de 
+
+Diretor Geral, Grau 58, da Diretoria de Proteção Social Especial, da Secretaria Municipal de Promoção 
+
+Social, Combate à Pobreza, Esportes e Lazer.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+atribuições,
+
+R E S O L V E :
+
+Nomear KARINA MEDRADO VIEIRA, para exercer o cargo em comissão de Gerente Central 
+Sistêmico de Gestão, Grau 57, da Gerência Central de Material e Patrimônio – Diretoria de Logística 
+e Patrimônio, da Secretaria Municipal de Gestão, e exonerar, a pedido, do mesmo cargo, FLÁVIA 
+BITTENCOURT PAMPLONA.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+atribuições,
+
+R E S O L V E :
+
+Considerar exonerado, a pedido, desde 07/01/2021, RICARDO DE SOUZA RODRIGUES, do 
+cargo em comissão de Subcoordenador III, da Subcoordenadoria de Monitoramento e Análises das 
+Ações Climáticas e Sistemas de Alertas – Coordenadoria de Ações de Contingência, da Secretaria 
+Municipal de Sustentabilidade e Resiliência.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+atribuições,
+
+R E S O L V E :
+
+Nomear o Capitão PM RODIMAR DA SILVA SANTOS JÚNIOR, para exercer o cargo em 
+comissão de Chefe de Segurança do Prefeito, Grau 57, da Secretaria de Governo.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+atribuições,
+
+R E S O L V E :
+
+Exonerar, a pedido, o Capitão PM RODIMAR DA SILVA SANTOS JÚNIOR, do cargo em 
+comissão de Ajudante de Ordem do Vice-Prefeito, da Secretaria de Governo.
+
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas 
+atribuições,
+
+RESOLVE:
+
+Nomear ELMAR LOPES SILVA, para exercer o cargo em comissão de Coordenador, Grau 
+57, do Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros – 
+PNAFM, da Secretaria Municipal da Fazenda.
+
+GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 11 de janeiro de 2021.
+
+RETIFICAÇÃO 
+
+No Decreto s/nº de 08/01/2021, publicado no DOM de 08/01/2021, referente a nomeação de LILIAN 
+CUNHA DE OLIVEIRA, 
+
+Onde se lê: 
+Nomear LILIAN CUNHA DE OLIVEIRA, para exercer o cargo em comissão de Gerente tipo II, Grau 53, 
+Itapuã, da Secretaria Municipal da Saúde. 
+
+Leia-se: 
+Nomear LILIAN CUNHA DE OLIVEIRA, para exercer o cargo em comissão de Gerente tipo II, A3, Grau 
+53, da Gerência Operacional da Unidade de Saúde da Família Km 17, Distrito Sanitário Itapuã, da 
+Secretaria Municipal da Saúde. 
+
+RETIFICAÇÃO 
+
+No Decreto s/nº de 06/01/2021, publicado no DOM de 07/01/2021, referente a exoneração de 
+ARIOVALDO NONATO BORGES JUNIOR, 
+
+Onde se lê: 
+
+do cargo em comissão de Gestor de Núcleo II
+
+Leia-se: 
+
+do cargo em comissão de Gestor de Núcleo I
+
+No Decreto s/nº de 08/01/2021, referente a nomeação de KÁTIA VÊRONICA NOGUEIRA DANTAS 
+
+Onde se lê: 
+
+Nomear KÁTIA VÊRONICA NOGUEIRA DANTAS...
+
+Leia-se: 
+
+Nomear CÁTIA VÊRONICA NOGUEIRA DANTAS...
+
+No Decreto s/nº de 08/01/2021, referente a exoneração de KÁTIA VÊRONICA NOGUEIRA DANTAS 
+
+Onde se lê: 
+
+...e exonerar, a pedido, do mesmo cargo, KÁTIA VÊRONICA NOGUEIRA DANTAS...
+
+Leia-se: 
+
+...e exonerar, a pedido, do mesmo cargo, CÁTIA VÊRONICA NOGUEIRA DANTAS...
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.89514
+
+CASA CIVIL - CC 
+
+PORTARIA Nº 001/2021 
+
+O CHEFE DA CASA CIVIL, no uso de suas atribuições e com fundamento no inciso XI do art.11 do 
+Regimento da Casa Civil, aprovado pelo Decreto 31.001/2019,
+R E S O L V E
+Designar ADRIANA BATISTA DANTAS matrícula nº 3135300, Gerente de Execução e Melhoria de 
+Desempenho Orçamentário, grau 56 da Diretoria Geral de Orçamento - DGO da Casa Civil para 
+cumulativamente responder pelo Cargo em Comissão de Gerente Central Sistêmico Grau 57 da 
+Diretoria Geral de Orçamento da Casa Civil, durante o afastamento legal da titular, TÂNIA MÁRCIA 
+SOUSA SERVA DA SILVA nº 3127327, por motivo de férias, no período de 05.01.2021 a 03.02.2021. 
+
+GABINETE DO CHEFE DA CASA CIVIL, em 06 de janeiro de 2021
+
+LUIZ ANTONIO VASCONCELLOS CARREIRA
+Chefe da Casa Civil
+
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO - 
+SEDUR 
+
+RELAÇÃO DE AUTOS DE INFRAÇÃO
+
+A CJA - Comissão de Julgamento de Autos de Empreendimentos, Atividades, Publicidades, 
+
+Ambiental e Poluição Sonora, designada através da Portaria nº 95/2017 de 11/04/2017 SEDUR, 
+
+em sessão ordinária realizada na sede da SEDUR no dia 03/11/2020, por unanimidade, decide:
+
+AUTO JULGADO A REVELIA
+
+AUTO PROC AUTUADO CNPJ / CPF RELATORA REAIS
+
+706402 10745/20
+NELSON 
+CARLOS 
+HOPE
+
+V 681930 - J
+CAROLINE 
+PRIMITIVO
+
+R$321,60 
+
+A CJA - Comissão de Julgamento de Autos de Empreendimentos, Atividades, Publicidades, 
+
+Ambiental e Poluição Sonora, designada através da Portaria nº 95/2017 de 11/04/2017 SEDUR, 
+
+em sessão ordinária realizada na sede da SEDUR no dia 06/10/2020, por unanimidade, decide:
+
+AUTOS JULGADOS PROCEDENTES COM DEFESA
+
+AUTO PROC AUTUADO CNPJ / CPF RELATORA REAIS
+
+606472 16848/19
+CRISTINA 
+QUADROS DE 
+JESUS
+
+960.140.165-20
+CAROLINE 
+PRIMITIVO
+
+R$214,40 
+
+605643 11618/19
+
+MONTE 
+TABOR 
+CENTRO ITALO 
+BRASILEIRO 
+DE PROM 
+SANITARIA
+
+02.212.931/0001-
+56
+
+CAROLINE 
+PRIMITIVO
+
+R$5.183,61
+
+A CJA - Comissão de Julgamento de Autos de Empreendimentos, Atividades, Publicidades, 
+
+Ambiental e Poluição Sonora, designada através da Portaria nº 95/2017 de 11/04/2017 SEDUR, 
+
+em sessão ordinária realizada na sede da SEDUR no dia 09/10/2020, por unanimidade, decide:
+
+AUTO JULGADO PROCEDENTE COM DEFESA
+
+AUTO PROC AUTUADO CNPJ / CPF RELATORA REAIS
+
+604796 34916/18
+
+BICALHO & 
+CAVALCANTI 
+COMERCIO DE 
+MEDICAMENTOS 
+LTDA
+
+27.607.032/0001-06
+CAROLINE 
+PRIMITIVO
+
+R$750,75 
+
+A CJA - Comissão de Julgamento de Autos de Empreendimentos, Atividades, Publicidades, 
+
+Ambiental e Poluição Sonora, designada através da Portaria nº 95/2017 de 11/04/2017 SEDUR, 
+
+em sessão ordinária realizada na sede da SEDUR no dia 03/11/2020, por unanimidade, decide:
+
+AUTO JULGADO NULO
+
+AUTO PROC AUTUADO CNPJ / CPF RELATORA
+
+606080 37519/18
+CLIN ESPECIALISTA EM 
+CREDITO LTDA
+
+08.916.347/0001-90
+CAROLINE 
+PRIMITIVO
+
+ Salvador, 11 de JANEIRO de 2021.
+
+JOÃO XAVIER NUNES FILHO
+Secretário
+
+SECRETARIA MUNICIPAL DE MOBILIDADE - SEMOB 
+
+Superintendência do Trânsito do Salvador - TRANSALVADOR 
+
+PORTARIA Nº 003/2021
+
+O SUPERINTENDENTE DA TRANSALVADOR, no uso de suas atribuições,
+
+RESOLVE:
+
+Tornar sem efeito a Portaria nº 392/2020, publicada no Diário Oficial do Município de 01/12/2020 
+
+e determinar que a Comissão Permanente de Sindicância e Processo Administrativo Disciplinar 
+
+prossiga com a apuração acerca das irregularidades constantes do Processo Digital de Sindicância 
+
+nº 42328/2020, devendo apresentar relatório conclusivo no prazo de 30 dias a contar da publicação.
+
+GABINETE DA SUPERINTENDÊNCIA DE TRÂNSITO DE SALVADOR, em 05 de janeiro de 2021.
+
+MARCUS VINICIUS PASSOS RAIMUNDO
+
+Superintendente
+
+PORTARIA Nº 013/2021
+
+O SUPERINTENDENTE DA TRANSALVADOR, no uso de suas atribuições,
+
+RESOLVE:
+
+Considerar nomeado, desde 08/01/2021, ELTON RODRIGUES PINTO, para exercer o Cargo em 
+
+Comissão de Diretor Administrativo Financeiro, Grau 57, da Diretoria Administrativa e Financeira, e 
+
+exonerando a pedido do mesmo cargo Marcelo Carvalho Garcia.
+
+GABINETE DA SUPERINTENDÊNCIA DE TRÂNSITO DE SALVADOR, em 08 de janeiro de 2021.
+
+MARCUS VINICIUS PASSOS RAIMUNDO
+
+Superintendente
+
+SECRETARIA MUNICIPAL DE ORDEM PÚBLICA - SEMOP 
+
+PORTARIA N.º 02/2021
+
+A SECRETÁRIA MUNICIPAL DE ORDEM PÚBLICA DO SALVADOR, no uso de suas atribuições, e de 
+
+acordo com o que estabelece o inciso XI, Art. 11 do Regimento interno aprovado pelo Decreto nº 
+
+26.012/2015,
+
+RESOLVE:
+
+Delegar competência ao Diretor da Codecon HUMBERTO RODRIGUES VIANA JUNIOR, matrícula 
+
+3158056, para assinar todos os atos relacionados aos processos administrativos, nos termos Art. 
+
+33, Inciso I, II e III, parágrafos 1º e 2º do Decreto Federal nº 2.181/1997, regulamentador da Lei nº 
+
+8.078/90 - Código de Defesa do Consumidor.
+
+GABINETE DA SECRETÁRIA DA SEMOP, em 11 de janeiro de 2021.
+
+MARISE PRADO DE OLIVEIRA CHASTINET 
+
+Secretária
+
+SECRETARIA MUNICIPAL DE SUSTENTABILIDADE E 
+RESILIÊNCIA - SECIS 
+
+DESPACHOS FINAIS DA COORDENADORIA ADMINISTRATIVA
+
+Delegação de Competência - Decreto n º 7.047/84
+
+LICENÇA PRÊMIO OU ESPECIAL - DEFERIDO
+
+PROCESSO INTERESSADO QUINQUÊNIO
+
+SECIS - 53197/2020 LUCINEIDE DE JESUS TEIXEIRA 3º
+
+Salvador, em 11 de janeiro de 2021
+
+IVAN PAES LEME CAMPOS ROCHA
+
+Coordenador de Apoio Administrativo/CODESAL
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 15
+Defesa Civil de Salvador - CODESAL 
+
+PORTARIA Nº 004/2021
+
+A SECRETÁRIA MUNICIPAL DE SUSTENTABILIDADE E RESILIÊNCIA, no uso de suas atribuições que 
+lhe são conferidas pelo artigo 10, item XI, do Regimento Interno aprovado pelo decreto nº 30.860 de 
+14 de março de 2019.
+
+RESOLVE:
+
+Pronunciar-se, conforme estabelece o art. 199, da Lei Complementar 01/91, sobre o relatório da 
+Comissão de Sindicância, designada através da portaria de nº 049/2020, publicada no DOM de nº 
+7.845, de 19/11/2020, decidindo pelo ARQUIVAMENTO do Processo Administrativo SECIS/CODESAL 
+nº 2863/2020. 
+
+GABINETE DA SECRETARIA MUNICIPAL DE SUSTENTABILIDADE E RESILIÊNCIA, em 11 de janeiro 
+de 2021.
+
+EDNA DE FRANÇA FERREIRA
+Secretária
+
+LICITAÇÕES 
+
+SECRETARIA MUNICIPAL DE GESTÃO - SEMGE 
+
+AVISO DE PRORROGAÇÃO
+
+A Comissão Central Permanente de Licitação - COMPEL, com base na Lei n. º 10.520/02, Lei Municipal 
+nº 6.148/02, Decreto Municipal 13.724/02, Lei 8.666/93 na sua atual redação, subsidiariamente, e Lei 
+Municipal 4.484/92, torna público para conhecimento dos interessados, a prorrogação da seguinte 
+licitação: PREGÃO ELETRÔNICO - SEMGE N.º001/2021 - PROC: 4668/2020 - SEMGE, cujo objeto é 
+a elaboração de registro de preço para aquisição de GASES COMPRIMIDOS E LIQUEFEITOS (GÁS), 
+com recebimento das propostas a partir das 8h do dia 22/01/2021; abertura no dia 25/01/2021 às 
+09:00h e início da disputa no dia 25/01/2021 às 10:00h.. Obs.: Horário Oficial de Brasília.
+
+O Edital do Pregão Eletrônico encontra-se à disposição dos interessados no endereço: www.
+licitacoes-e.com.br.
+
+Salvador, 11 de janeiro de 2021.
+
+NAILTON NUNES FRNAÇA
+Presidente 
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS 
+
+RESULTADO DE LICITAÇÃO
+
+A Comissão Setorial Permanente de Licitação - COPEL, atendendo a decisão do Exmo. Sr. Secretário 
+
+Municipal da Saúde, divulga o resultado da licitação abaixo especificada:
+
+Pregão Eletrônico - SMS n.º 283/2020
+
+Processo nº 10.683/2020
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+FABMED DISTRIBUIDORA HOSPITALAR LTDA 01 69.520,00
+
+ZUCK PAPÉIS LTDA
+02 14.400,00
+
+06 12.293,00
+
+UNI HOSPITALAR LTDA 03 526.500,00
+
+SP HOSPITALAR LTDA 07 52.650,00
+
+TOTAL 675.363,00
+
+Os lotes 04 e 08 foram DESERTOS. O lote 05 foi FRACASSADO.
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 30/12/2020.
+
+Salvador, 11 de janeiro de 2021.
+
+JOSÉ EGÍDIO DE SANTANA
+Presidente/COPEL
+
+RESULTADO DE LICITAÇÃO
+
+A Comissão Setorial Permanente de Licitação - COPEL, atendendo a decisão do Exmo. Sr. Secretário 
+
+Municipal da Saúde, divulga o resultado da licitação abaixo especificada:
+
+Pregão Eletrônico - SMS n.º 256/2020
+
+Processo nº 6.848/2019
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAL AMBULATORIAL/HOSPITALAR (PÁS 
+
+PARA DESFIBRILADOR).
+
+EMPRESA LOTE VALOR (R$)
+
+CARDIOSERVICE COMÉRCIO INDÚSTRIA E SERVIÇOS LTDA ÚNICO 47.700,00
+
+TOTAL 47.700,00
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 08/01/2021.
+
+Salvador, 11 de janeiro de 2021.
+
+JOSÉ EGÍDIO DE SANTANA
+Presidente/COPEL
+
+RESULTADO DE LICITAÇÃO
+
+A Comissão Setorial Permanente de Licitação - COPEL, atendendo a decisão do Exmo. Sr. Secretário 
+
+Municipal da Saúde, divulga o resultado da licitação abaixo especificada:
+
+Pregão Eletrônico - SMS n.º 291/2020
+
+Processo nº 10.128/2020
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+NUNESFARMA DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS 
+LTDA
+
+01 627.000,00
+
+MEDISIL COMERCIAL FARMACÊUTICA, HOSPITALAR, DE HIGIENE E 
+TRANSPORTES LTDA
+
+02 190.000,00
+
+ANTIBIÓTICOS DO BRASIL LTDA 05 144.000,00
+
+DROGAFONTE LTDA 06 367.500,00
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S.A. 07 105.200,00
+
+4M BR - COMÉRCIO E REPRESENTAÇÃO DE MATERIAL E 
+MEDICAMENTO HOSPITALAR LTDA
+
+08 77.745,00
+
+11 83.930,00
+
+ZUCK PAPÉIS LTDA
+09 26.500,00
+
+10 28.878,00
+
+ONMED DISTRIBUIDORA DE MEDICAMENTOS EIRELI 12 14.460,00
+
+TOTAL 1.665.213,00
+
+Os lotes 03 e 04 foram DESERTOS.
+Critério de Julgamento: Menor Preço.
+DATA DA HOMOLOGAÇÃO: 30/12/2020.
+
+Salvador, 08 de janeiro de 2021.
+
+JOSÉ EGÍDIO DE SANTANA
+Presidente/copel
+
+RESULTADO DE LICITAÇÃO
+
+A Comissão Setorial Permanente de Licitação - COPEL, atendendo a decisão do Exmo. Sr. Secretário 
+Municipal da Saúde, divulga os resultados das licitações abaixo especificadas:
+
+Pregão Eletrônico - SMS nº 299/2020
+Processo nº 10.562/2020
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+FRESENIUS KABI BRASIL LTDA 01 59.800,00
+
+SALVADOR DISTRIBUIDORA DE MEDICAMENTOS EIRELI
+
+02 1.433,00
+
+04 29.490,00
+
+07 255.679,20
+
+MEDISIL COMERCIAL FARMACEUT HOSPITALAR DE HIG E TR 03 2.428.524,00
+
+ZUCK PAPEIS LTDA 06 7.997,60
+
+TOTAL 2.782.923,80
+
+O lote 05 foi fracassado.
+Critério de Julgamento: Menor Preço.
+DATA DA HOMOLOGAÇÃO: 05/01/2021
+Pregão Eletrônico - SMS nº 316/2020
+Processo nº 13.232/2020
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+FABMED DISTRIBUIDORA HOSPITALAR LTDA
+01 179.986,00
+
+03 205.000,00
+
+ZUCK PAPEIS LTDA
+
+02 7.200,00
+
+07 19.249,45
+
+08 38.900,00
+
+SALVADOR DISTRIBUIDORA DE MEDICAMENTOS EIRELI 04 815,04
+
+COSTA CAMARGO COM. DE PRODUTOS HOSPITALARES LTDA 06 74.691,60
+
+TOTAL 525.842,09
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.89516
+
+Os lotes 05 e 09 foram desertos.
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 05/01/2021
+
+Salvador, 11 de janeiro de 2021.
+
+JOSÉ EGÍDIO DE SANTANA
+Presidente/COPEL
+
+RESULTADO DE LICITAÇÃO
+
+A Comissão Setorial Permanente de Licitação - COPEL, atendendo a decisão do Exmo. Sr. Secretário 
+
+Municipal da Saúde, divulga os resultados das licitações abaixo especificadas:
+
+Pregão Eletrônico - SMS nº 301/2020
+
+Processo nº 10.634/2020
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAL DE PENSO.
+
+EMPRESAS LOTES VALORES (R$)
+
+CORDEIRO CARAPIA COMÉRCIO DE PRODUTOS HOSPITALARES LTDA
+
+01 6.630,00
+
+03 70.000,00
+
+04 24.500,00
+
+TOTAL 101.130,00
+
+O lote 02 foi DESERTO.
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 30/12/2020
+
+Pregão Eletrônico - SMS nº 317/2020
+
+Processo nº 14.809/2020
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+UNI HOSPITALAR LTDA 01 777.000,00
+
+SALVADOR DISTRIBUIDORA DE MEDICAMENTOS EIRELI 03 100.800,00
+
+TOTAL 877.800,00
+
+Os lotes 02 e 04 foram DESERTOS.
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 30/12/2020
+
+Pregão Eletrônico - SMS nº 318/2020
+
+Processo nº 14.337/2020
+
+Objeto: REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS.
+
+EMPRESAS LOTES VALORES (R$)
+
+FABMED DISTRIBUIDORA HOSPITALAR LTDA 01 1.216.000,00
+
+ZUCK PAPEIS LTDA 02 118.400,00
+
+TOTAL 1.334.400,00
+
+Critério de Julgamento: Menor Preço.
+
+DATA DA HOMOLOGAÇÃO: 30/12/2020
+
+Salvador, 11 de janeiro de 2021.
+
+JOSÉ EGÍDIO DE SANTANA
+Presidente/COPEL
+
+SECRETARIA DE INFRAESTRUTURA E OBRAS PÚBLICAS - 
+SEINFRA 
+
+JULGAMENTO DE RECURSO ADMINISTRATIVO
+TOMADA DE PREÇOS Nº 005/2020
+
+A Comissão Setorial de Licitação da Secretaria Municipal de Infraestrutura e Obras Públicas 
+- SEINFRA, em cumprimento ao disposto na Lei Federal nº 8.666/93, art. 109, comunica aos 
+interessados o julgamento do Recursos Administrativo, relativo a seguinte licitação: 
+
+LICITAÇÃO: nº 009/2020 - SEINFRA
+
+MODALIDADE: TOMADA DE PREÇO n.º 005/2020 - SEINFRA - Processo Administrativo nº 
+758/2020-SEINFRA.
+
+TIPO: Técnica e Preço.
+
+OBJETO: Contratação de Pessoa Jurídica Especializada para Execução de Trabalho Social do 
+Empreendimento Residencial FRANCO GILBERTI, no âmbito do Programa Minha Casa, Minha Vida, 
+em Salvador, conforme Portaria n. º 464, de 25 de julho de 2018, do então Ministério das Cidades, DO 
+PROGRAMA MINHA CASA MINHA VIDA, conforme especificado neste Edital e seus anexos.
+
+Recorrente:  IDETEC - Instituto de Desenvolvimento Científico Tecnológico e Ambiental 
+Recorrida: TOCA Ambiental Consultoria e Engenharia LTDA. 
+
+DECISÃO ADMINISTRATIVA E HIERÁRQUICA: CONHECER do Recurso Administrativo impetrado pela 
+Recorrente INSTITUTO DE DESENVOLVIMENTO CIENTÍFICO, TECNOLÓGICO E AMBIENTAL - IDETEC, 
+e, no mérito, julgá-lo PARCIALMENTE PROCEDENTE para redefinir a pontuação da Licitante TOCA 
+
+AMBIENTAL CONSULTORIA E ENGENHARIA LTDA. em conformidade com o julgamento efetuado.
+
+Ficam desde já convocadas as licitantes classificadas, para a abertura dos Envelopes de nº “3”, 
+Proposta de Preços, a ser realizada no Auditório da sede da Secretaria Municipal de Infraestrutura 
+e Obras Públicas - SEINFRA, localizado na Rua da Bélgica, nº 02, Edifício Roosevelt Patrimonial, 6º 
+andar, Comércio - Salvador/Bahia às 10:00 horas do dia 14 de janeiro de 2021. 
+
+O inteiro teor do processo licitatório encontra-se à disposição dos interessados na sede da Secretaria 
+Municipal de Infraestrutura e Obras Públicas, situado na Rua da Bélgica, nº 02, Edifício Roosevelt 
+Patrimonial, 6º andar, Sala de Licitação, Comércio - Salvador/Bahia, no horário das 09:00 às 12:00 e 
+das 13:30 às 16:30 horas.
+
+Salvador, 11 de janeiro de 2021
+
+MAYRA CORDEIRO PASSOS
+Presidente Comissão - em exercício
+
+Superintendência de Obras Públicas do Salvador - SUCOP 
+
+RESULTADO DE LICITAÇÃO HOMOLOGADA
+
+CONCORRÊNCIA Nº 007/2020
+
+A Comissão Permanente de Licitação/COPEL da SUCOP, atendendo a decisão do Sr. Superintendente, 
+
+torna público para conhecimento dos interessados a homologação e adjudicação da seguinte 
+
+licitação:
+
+Modalidade: Concorrência nº 007/2020 - Processo nº 118/2020-Tipo: menor preço
+
+Objeto: Contratação de empresa para execução dos serviços de requalificação da Avenida Adhemar 
+
+de Barros, Ondina, no Município de Salvador/BA, de acordo com as exigências, especificações e 
+
+demais condições expressas no Edital e seus anexos.
+
+Vencedor: LIGA ENGENHARIA LTDA, com valor K de 0,79, que após aplicado sobre todos os preços 
+
+unitários da planilha orçamentária soma o valor global de R$11.082.964,12 (onze milhões, oitenta e 
+
+dois mil, novecentos e sessenta e quatro reais e doze centavos)
+
+Critério de Julgamento: menor coeficiente multiplicador “K” (menor preço).
+
+Base Legal: Lei Federal nº 8.666/93
+
+Data Homologação/Adjudicação: 07/01/2021
+
+Ficam, desde já, a licitante vencedora, convocada para assinatura do Termo de Contrato, conforme 
+
+dispõe o item 17, e atendendo ao item 21 do Edital.
+
+O inteiro teor do processo licitatório encontra-se à disposição dos interessados na Sala da Comissão 
+
+de Licitação desta Autarquia, sito à Av. Marechal Castelo Branco, 154, Nazaré (Aquidabã), Salvador/
+
+BA, no horário das 08:00 às 12:00 e das 13:00 às 17:00hs.
+
+Salvador, 07 de janeiro de 2021
+
+ANA LÚCIA LUZ DE S. E SILVA
+Presidente/COPEL
+
+JULGAMENTO DE RECURSO ADMINISTRATIVO
+
+CONCORRÊNCIA Nº 007/2020
+
+A Comissão Permanente de Licitação da SUCOP- Superintendência de Obras Públicas do Salvador, 
+
+atendendo a decisão do Superintendente, com base na Lei nº 8.666/93 na sua atual redação e 
+
+Lei Municipal 4.484/92, esta no que couber, torna público para conhecimento dos interessados 
+
+o julgamento do Recurso Administrativo, referente a CONCORRÊNCIA Nº 007/2020 - Processo 
+
+nº: 118/2020, cujo objeto consiste na contratação de empresa para execução dos serviços de 
+
+requalificação da Avenida Adhemar de Barros, Ondina, no Município de Salvador/BA, de acordo com 
+
+as exigências, especificações e demais condições expressas no Edital e seus anexos.
+
+Recorrente: CBS CONSTRUTORA BAHIANA DE SANEAMENTO LTDA
+
+Recorrida: EBISA ENGENHARIA BRASILEIRA, INDÚSTRIA E SANEAMENTO LTDA
+
+Decisão Administrativa e Hierárquica: Conhecer do Recurso Administrativo para, no mérito, 
+
+JULGAR PROCEDENTE, reformando a decisão inicial, considerando a licitante EBISA ENGENHARIA 
+
+INABILITADA, bem como reformar a decisão que habilitou a licitante CBS CONSTRUTORA tornando-a 
+
+INABILITADA, tudo conforme consta no processo nº 118/2020.
+
+O inteiro teor do processo licitatório encontra-se à disposição dos interessados na Sala da Comissão 
+
+de Licitação desta Autarquia, sito à Av. Marechal Castelo Branco, 154, Nazaré (Aquidabã), Salvador/
+
+BA, no horário das 08:00 às 12:00 e das 13:00 às 17:00hs.
+
+Salvador, 06 de janeiro de 2021
+
+ANA LÚCIA LUZ DE S. E SILVA
+Presidente/COPEL
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 17
+CONTRATOS 
+
+SECRETARIA MUNICIPAL DA EDUCAÇÃO - SMED 
+
+RESUMO TERMO ADITIVO Nº 001/2021 AO CONTRATO 003/2020
+
+CONTRATANTE: PMS/SMED
+
+CNPJ: 13.927.801/0006-53
+
+CONTRATADA: Metrópole Soluções Empresariais e Governamentais EIRELI 
+
+CNPJ: 07.843.902/0001-39
+
+PROCESSO Nº: 41848/2020.
+
+VIGÊNCIA: 12 (doze) meses, com início em 12/01/2021 e término em 11/01/2022.
+
+OBJETO: O presente Termo Aditivo tem por objeto a prorrogação do prazo de vigência ao contrato 
+
+nº 003/2020 que objetiva a contratação de empresa de Contabilidade para atender as demandas 
+
+de elaboração e declaração de obrigações fiscais dos 436 (quatrocentos e trinta e seis) Conselhos 
+
+Escolares da Rede Municipal de Ensino de Salvador.
+
+VALOR: R$ 90.720,00 (noventa mil, setecentos e vinte reais).
+
+DOTAÇÃO ORÇAMENTÁRIA: Projeto/Atividade: 12.365.0001.2435, 12.361.0001.2436; Natureza da 
+
+Despesa: 3.3.90.39; Fonte: 0.1.01.
+
+DATA DE ASSINATURA: 11/01/2021
+
+ASSINAM: 
+
+RAFAELLA PONDÉ CERDEIRA
+Secretaria Municipal da Educação- SMED
+
+FABIA MARQUES BRAGA
+Metrópole Soluções Empresariais e Governamentais EIRELI
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS 
+
+RESUMO DE TERMO DE COMPROMISSO Nº 780/2020
+
+PREGÃO ELETRÔNICO SMS: 277/2020
+
+PROCESSO Nº 11681/2020
+
+OBJETO: Registro de preços para aquisição de medicamentos
+
+TERMO DE COMPROMISSO SMS Nº 780/2020
+
+CONTRATADA: SALVADOR DISTRIBUIDORA DE MEDICAMENTOS EIRELI
+
+CNPJ: 21.632.425/0001-93
+
+VIGÊNCIA: O prazo de vigência será de 01 (um) ano, a contar da data de assinatura.
+
+AMPARO LEGAL: Lei Federal nº 8.666/93, Municipal 4.484/92 e Decreto Municipal nº
+
+10.267/93
+
+DATA DA ASSINATURA 30/12/2020
+
+ASSINAM: LEONARDO SILVA PRATES
+
+SECRETÁRIO MUNICIPAL DA SAÚDE
+
+IVAN CALIXTO DE ALMEIDA CORREIA 
+
+SALVADOR DISTRIBUIDORA DE MEDICAMENTOS EIRELI
+
+PREÇO REGISTRADO:
+
+ITEM MATERIAL UF VALOR UNITÁRIO
+
+01 CODEÍNA FOSFATO 30MG MARCA/FABRICANTE: CRISTÁLIA CP 1,323
+
+Salvador, 11 de janeiro de 2021
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+RESUMO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+CONTRATO Nº 003/2021
+
+PROCESSO nº 13824/2020
+
+OBJETO: Contratação de empresa especializada para a prestação de serviços de alimentação 
+
+destinada a pacientes, acompanhantes, servidores / funcionários e outros autorizados para a rede 
+
+municipal, sob gestão da Secretaria Municipal de Saúde - SMS.
+
+VALOR GLOBAL: R$ 1.779.367,20 (um milhão setecentos e setenta e nove mil trezentos e sessenta e 
+
+sete reais e vinte centavos).
+
+DOTAÇÃO ORÇAMENTÁRIA: Projetos/Atividades 10.302.0002.232900, Elemento de Despesa 3.3.90.39, 
+
+Fontes de Recursos: 002 e 014.
+
+PRAZO DE VIGÊNCIA: O prazo de vigência do contrato é de 12 (doze) meses, tendo por termo inicial 
+
+a data 11/01/2021.
+
+CONTRATADA: NUTRIBRASIL EIRELI.
+
+CNPJ: 69.626.349/0001-30
+
+DATA DA ASSINATURA: 08/01/2021
+
+AMPARO LEGAL: Lei Federal nº 8.666/93 
+
+RESPONSAVEL LEGAL: Rubens da Silva Bezerra
+
+Salvador, 11 de janeiro de 2021.
+
+LEONARDO SILVA PRATES
+Secretaria Municipal da Saúde
+
+RESUMO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS MÉDICOS
+
+CONTRATO Nº 503/2020 
+
+PROCESSO nº 39912/2020
+
+MODALIDADE: Chamamento Público nº 013/2019
+
+OBJETO: O presente tem por objeto a prestação de serviços médicos, para o exercício das funções 
+
+previstas no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas 
+
+unidades de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da 
+
+Atenção Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA.
+
+VALOR TOTAL: R$ 36.000,00 (trinta e seis mil reais).
+
+DOTAÇÃO Projeto/Atividade 10.302.0016.249400; 10.302.0002.232900; 10.301.0016.249300 
+
+Elemento de Despesa 3.3.90.39 Fonte de Recursos 0.1.02; 0.2.14; 0.1.91, para o corrente exercício, 
+
+devidamente ajustadas nas dotações dos exercícios subsequentes.
+
+PRAZO DE VIGÊNCIA: 90 (noventa) dias, prorrogáveis por igual período, contados a partir da data de 
+
+sua assinatura.
+
+CONTRATADA: DI GREGORIO & MOURA LTDA.
+
+CNPJ: 15.647.941/0001-99
+
+DATA DA ASSINATURA: 04/01/2021
+
+AMPARO LEGAL: Lei Federal nº 8.666/93
+
+RESPONSAVEL LEGAL: Leda Lucia Di Gregorio Neta
+
+Salvador, 08 de janeiro de 2021.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RESUMO DE TERMO DE COMPROMISSO Nº 744/2020
+
+PREGÃO ELETRÔNICO SMS: 248/2020
+
+PROCESSO Nº 9939/2020
+
+OBJETO: Registro de preços para aquisição de suporte para soro em aço
+
+TERMO DE COMPROMISSO SMS Nº 744/2020
+
+CONTRATADA: MHS INDÚSTRIA DE MÓVEIS LTDA
+
+CNPJ: 10.433.858/0001-01
+
+VIGÊNCIA: O prazo de vigência será de 01 (um) ano, a contar da data de assinatura. 
+
+AMPARO LEGAL: Lei Federal nº 8.666/93, Municipal 4.484/92 e Decreto Municipal nº
+
+10.267/93
+
+DATA DA ASSINATURA 23/12/2020
+
+ASSINAM: LEONARDO SILVA PRATES
+
+SECRETÁRIO MUNICIPAL DA SAÚDE
+
+JOSÉ CARLOS FERREIRA DE SOUSA 
+
+MHS INDÚSTRIA DE MÓVEIS LTDA
+
+PREÇO REGISTRADO:
+
+ITEM MATERIAL UF VALOR UNITÁRIO
+
+01
+SUPORTE PARA SORO EM AÇO 06 GANCHOS E 
+RODÍZIOS MARCA: CONKAST FABRICANTE: CONKAST 
+EQUIPAMENTOS TECNOLÓGICOS
+
+UND 189,50
+
+Salvador, 11 de janeiro de 2021
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+RESUMO DO 1º TERMO ADITIVO AO CONTRATO Nº 314/2020
+
+PROCESSO: Nº 15135/2020
+
+DO CONTRATO: Acordam as partes em prorrogar o prazo da prestação dos serviços, por mais 90 
+
+(noventa) dias, com início em 17/12/2020 e término em 17/03/2021, permanecendo o valor mensal 
+
+estimado de R$ 1.544.973,41 (um milhão, quinhentos e quarenta e quatro mil, novecentos e setenta 
+
+e três reais e quarenta e um centavos).
+
+DOTAÇÃO ORÇAMENTÁRIA: Projeto Atividade 10.302.0016.249400; Elemento de Despesa 3.3.90.39; 
+
+Fonte de Recursos 0.1.02, 0.2.14 e 0.1.91.
+
+CONTRATADA: INSTITUTO 2 DE JULHO PROJETOS, PESQUISAS E INTERVENÇÕES PARA O 
+
+DESENVOLVIMENTO HUMANO.
+
+CNPJ: 10.709.300/000106
+
+DATA DA ASSINATURA: 16/12/2020.
+
+RESPONSÁVEL LEGAL: Adnailson de Lima Santos
+
+Salvador, 11 de janeiro de 2021.
+
+LEONARDO SILVA PRATES 
+Secretaria Municipal da Saúde 
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+ANO XXXIV | N º 7.89518
+
+RESUMO DO 2º TERMO “EX OFFICIO” AO CONTRATO Nº 280/2020
+
+Resumo do 2º Termo “Ex Officio” ao Contrato nº 280/2020, celebrado em 01/06/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e MEDSAÚDE - SOCIEDADE MÉDICA LTDA.
+
+PROCESSO ADMINISTRATIVO nº 5882/2020 OBJETO: Prorrogar a vigência do contrato de 28/11/2020 
+
+até 26/02/2021, cujo objeto é prestação de serviços médicos, para o exercício das funções previstas 
+
+no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas unidades 
+
+de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da Atenção 
+
+Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA, permanecendo 
+
+o global estimado de R$ 36.000,00 (trinta e seis mil reais), mantendo-se as demais condições 
+
+contratadas.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RESUMO DO 2º TERMO “EX OFFICIO” AO CONTRATO Nº 331/2020
+
+Resumo do 2º Termo “Ex Officio” ao Contrato nº 331/2020, celebrado em 13/07/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e PRATES SERVIÇOS MÉDICOS LTDA.
+
+PROCESSO ADMINISTRATIVO nº 47000/2020 OBJETO: Prorrogar a vigência do contrato de 09/01/2021 
+
+até 09/04/2021, cujo objeto é prestação de serviços médicos, para o exercício das funções previstas 
+
+no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas unidades 
+
+de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da Atenção 
+
+Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA, permanecendo 
+
+o global estimado de R$ 72.000,00 (setenta e dois mil reais), mantendo-se as demais condições 
+
+contratadas.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RESUMO DO 2º TERMO “EX OFFICIO” AO CONTRATO Nº 343/2020
+
+Resumo do 2º Termo “Ex Officio” ao Contrato nº 343/2020, celebrado em 13/07/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e CLINICA MÉDICA ELIS REBOUÇAS LTDA.
+
+PROCESSO ADMINISTRATIVO nº 46898/2020 OBJETO: Prorrogar a vigência do contrato de 09/01/2021 
+
+até 09/04/2021, cujo objeto é prestação de serviços médicos, para o exercício das funções previstas 
+
+no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas unidades 
+
+de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da Atenção 
+
+Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA, permanecendo 
+
+o global estimado de R$ 36.000,00 (trinta e seis mil reais), mantendo-se as demais condições 
+
+contratadas.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RESUMO DO 2º TERMO “EX OFFICIO” AO CONTRATO Nº 333/2020
+
+Resumo do 2º Termo “Ex Officio” ao Contrato nº 333/2020, celebrado em 24/07/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e FRIJS MED SERVIÇOS MÉDICOS LTDA 
+
+PROCESSO ADMINISTRATIVO nº 46619/2020 OBJETO: Prorrogar a vigência do contrato de 20/01/2021 
+
+até 20/04/2021, cujo objeto é prestação de serviços médicos, para o exercício das funções previstas 
+
+no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas unidades 
+
+de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da Atenção 
+
+Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA, permanecendo 
+
+o global estimado de R$ 36.000,00 (trinta e seis mil reais), mantendo-se as demais condições 
+
+contratadas.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RESUMO DO 4º TERMO “EX OFFICIO” AO CONTRATO Nº 027/2020
+
+Resumo do 4º Termo “Ex Officio” ao Contrato nº 027/2020, celebrado em 16/01/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e AMG SERVIÇOS MÉDICOS LTDA.
+
+PROCESSO ADMINISTRATIVO nº 46958/2020 OBJETO: Prorrogar a vigência do contrato de 10/01/2021 
+
+até 10/04/2021, cujo objeto é prestação de serviços médicos, para o exercício das funções previstas 
+
+no Termo de Referência do Edital do Chamamento Público nº 013/2019, para atuação nas unidades 
+
+de Pronto Atendimento e no Serviço de Atendimento Móvel de Urgência, no âmbito da Atenção 
+
+Secundária à Saúde, vinculadas à Secretaria Municipal de Saúde de Salvador-BA, permanecendo 
+
+o global estimado de R$ 36.000,00 (trinta e seis mil reais), mantendo-se as demais condições 
+
+contratadas.
+
+LEONARDO SILVA PRATES
+
+Secretaria Municipal da Saúde
+
+RETIFICAÇÃO DO RESUMO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS 
+
+Retificação de Publicação do RESUMO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº 331/2020, 
+
+publicado no DOM nº 7834, de 03 de novembro de 2020, página 23.
+
+Onde se Lê: 
+
+Resumo do 1º Termo “Ex Officio” ao Contrato nº 331/2020, celebrado em 13/07/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e PRATES SERVIÇOS MÉDICOS LTDA.
+
+PROCESSO ADMINISTRATIVO 10780/2020 OBJETO: Prorrogar a vigência do contrato de 11/10/2020 
+
+até 09/01/2020.
+
+Leia-se: 
+
+Resumo do 1º Termo “Ex Officio” ao Contrato nº 331/2020, celebrado em 13/07/2020 entre a PMS/
+
+Secretaria Municipal da Saúde e PRATES SERVIÇOS MÉDICOS LTDA.
+
+PROCESSO ADMINISTRATIVO 10780/2020 OBJETO: Prorrogar a vigência do contrato de 11/10/2020 
+
+até 09/01/2021.
+
+Salvador, 08 de janeiro de 2021.
+
+LEONARDO SILVA PRATES
+Secretário Municipal da Saúde
+
+SECRETARIA DE INFRAESTRUTURA E OBRAS PÚBLICAS - 
+SEINFRA 
+
+Superintendência de Obras Públicas do Salvador - SUCOP 
+
+RESUMO DO TERMO DE ACORDO E COMPROMISSO
+
+Processo nº: 23.319/2020-SEDUR
+
+Concedente: SUCOP-SUPERINTENDÊNCIA DE OBRAS PÚBLICAS-CNPJ nº 10.635.089/0001-16 
+
+Proponente: SPG GERONA EMPREENDIMENTO IMOBILIARIO LTDA - CNPJ n° 20.165.713/0001-12
+
+Objeto: O presente instrumento tem por objeto a realização do Projeto de recomposição da 
+
+pavimentação, passeios e sistemas de drenagem, decorrente dos danos causados por toda e 
+
+qualquer intervenção realizada pela SPG GERONA EMPREENDIMENTO, em vias urbanas na cidade 
+
+do Salvador, na Ligação de esgotamento sanitário e águas pluviais às redes públicas, na Rua Oito de 
+
+Dezembro, Graça, Salvador - Ba.
+
+Prazo de vigência: 12 (doze) meses, a partir da data de sua assinatura.
+
+Data de Assinatura: 06/01/2021
+
+Assinam:  ORLANDO CEZAR DA COSTA CASTRO-SUCOP e ROSILENE SILVA SANTOS-SPE GERONA
+
+
+
+  
+
+DIÁRIO OFICIAL DO
+SALVADOR-BAHIA
+
+TERÇA-FEIRA
+12 DE JANEIRO DE 2021
+
+ANO XXXIV | N º 7.895 19
+
+DIÁRIO OFICIAL DO
+
+Criado pelo art. 82 da Lei nº 3.601, de 18 de fevereiro de 1986
+
+Ouvidoria Geral do Município - Para registrar reclamações, denúncias, 
+sugestões ou elogios, acesse: www.ouvidoria.salvador.ba.gov.br ou ligue para 
+(71) 3202-5909, de segunda a sexta-feira, das 8 às 17 horas, exceto feriados.
+
+Disque Salvador - Para solicitar serviços ou informação, 
+acesse: www.disquesalvador.ba.gov.br ou ligue 156, 
+atendimento 24h.
+
+Diário Oficial do Município - Edições Anteriores, acesse: www.dom.salvador.
+ba.gov.br ou solicite através do e-mail: diario.oficial@salvador.ba.gov.br, de 
+segunda a sexta-feira, das 8 às 18 horas, exceto feriados.
+
+CEP: 40.020-000 - Tel.: 3202-6261/6262
+
+Coordenador de Tecnologia
+
+Claudio Raphael Pereira Pinto
+
+3Órgão responsável
+
+Andrey das Neves Santos
+
+Gestor de EditoraçãoPrefeito de Salvador
+
+Bruno Soares Reis
+
+Secretaria de Governo
+
+Ana Paula Andrade Matos Moreira
+
+EDITAIS 
+
+SECRETARIA MUNICIPAL DA SAÚDE - SMS 
+
+AVISO DE CONVOCAÇÃO
+
+A Coordenadoria Administrativa torna público para conhecimento dos interessados que será realizada 
+
+COTAÇÃO DE PREÇO. Objeto: registro de preços para aquisição de freezer para armazenamento 
+
+científico de bobinas de gelo reutilizável com indicação de acondicionamento em ultra baixa 
+
+temperatura a nível local, capacidade 100 a 120 litros, para ações de combate ao COVID-19, do 
+
+laboratório (nas unidades de saúde e pontos de vacinação).
+
+COTAÇÃO DE PREÇO Nº 001-2021 - PROC. Nº 47366/2020.
+
+As propostas deverão ser apresentadas no prazo de 03 (três) dias úteis, a contar da publicação deste 
+
+aviso.
+
+Os processos administrativos referentes aos objetos das presentes cotações encontram-se no 
+
+Setor de Suprimentos - SESUP, telefone: (71) 3202-1147 e-mail: searp.saude@gmail.com, onde os 
+
+interessados poderão solicitar maiores informações.
+
+Salvador, 06 de janeiro de 2021.
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+AVISO DE CONVOCAÇÃO
+
+A Coordenadoria Administrativa torna público para conhecimento dos interessados que será 
+
+realizada COTAÇÃO DE PREÇO Nº 005/2021: contratação de serviços de Micrologística para gestão 
+
+de insumos e materiais médicos, medicamentos e correlatos, incluindo o desenvolvimento e a 
+
+gestão de processos e de materiais dentro da cadeia de abastecimento das unidades beneficiárias 
+
+no Anexo I, tais como: programação, armazenagem, administração de equipe e separação de 
+
+pedidos, expedição de insumos, correlatos e distribuição de materiais médicos, medicamentos e 
+
+correlatos, conforme Termo de Referência. As propostas deverão ser apresentadas até o dia 18 
+
+de janeiro de 2021.
+
+O processo administrativo nº 47844/2020 referente ao objeto da presente cotação encontra-se no 
+
+Setor de Suprimentos - SESUP, telefone: (71) 3202-1146 e-mail: sesup.sms5@gmail.com, onde os 
+
+interessados poderão solicitar maiores informações.
+
+Salvador, 11 de janeiro de 2021
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+AVISO DE CONVOCAÇÃO
+
+A Coordenadoria Administrativa torna público para conhecimento dos interessados que será 
+
+realizada COTAÇÃO DE PREÇO. Objeto: registro de preços para Aquisição de Saco transparente ZIP 
+
+LOCK, para Campanha de Vacinação contra a COVID-19.
+
+COTAÇÃO DE PREÇO Nº 008-2021 - PROC. Nº 53727/2020.
+
+As propostas deverão ser apresentadas no prazo de 03 (três) dias úteis, a contar da publicação deste 
+
+aviso.
+
+Os processos administrativos referentes aos objetos das presentes cotações encontram-se no 
+
+Setor de Suprimentos - SESUP, telefone: (71) 3202-1147 e-mail: searp.saude@gmail.com, onde os 
+
+interessados poderão solicitar maiores informações.
+
+Salvador, 06 de janeiro de 2021.
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+AVISO
+
+A Secretaria Municipal da Saúde do Município do Salvador, com lastro no §3º do Art. 2º da Lei nº 
+
+8631 de 25 de julho de 2014, e no disposto na Resolução COGEOS nº 06/2020 publicado no Diário 
+
+Oficial do Município - DOM nº 7.574 de 15 a 17/02/2020 confere, pelo presente, aviso de publicidade 
+
+ao propósito de transferência da gestão das Unidade de Saúde da Família Ilha de Maré, Unidade 
+
+de Saúde da Família Bom Jesus dos Passos e Unidade de Saúde da Família Paramana - Frades e 
+
+respectivos Pontos de Atenção às Urgências para Organização Social, por meio de processo seletivo 
+
+de Chamamento Público a ser deflagrado em data oportuna.
+
+Salvador, 08 de janeiro de 2021.
+
+LEONARDO SILVA PRATES
+
+Secretário Municipal da Saúde
+
+AVISO DE CONVOCAÇÃO
+
+A Coordenadoria Administrativa torna público para conhecimento dos interessados que será 
+
+realizada COTAÇÃO DE PREÇO. Objeto: registro de preços para Aquisição de óleo mineral diluente 
+
+para inseticidas.
+
+COTAÇÃO DE PREÇO Nº 009-2021 - PROC. Nº 58260/2020.
+
+As propostas deverão ser apresentadas no prazo de 03 (três) dias úteis, a contar da publicação deste 
+
+aviso.
+
+Os processos administrativos referentes aos objetos das presentes cotações encontram-se no 
+
+Setor de Suprimentos - SESUP, telefone: (71) 3202-1147 e-mail: searp.saude@gmail.com, onde os 
+
+interessados poderão solicitar maiores informações.
+
+Salvador, 11 de janeiro de 2021.
+
+PALOMA MENDES MENDONÇA
+Coordenadora
+
+EDITAL DE CONVOCAÇÃO 
+
+A Secretaria Municipal da Saúde notifica o abaixo relacionado da existência de débito relativo ao 
+
+desligamento do serviço público. Em face de tanto, concede-se o prazo de 30 (trinta) dias, a contar da 
+
+data da publicação deste EDITAL, para a apresentação do comprovante de pagamento, caso efetuado, 
+
+ou para a liquidação do débito apurado, devidamente atualizado até a data de seu efetivo pagamento, 
+
+sob pena de encaminhamento para a inscrição na DIVIDA ATIVA Municipal.
+
+O notificado deverá se dirigir, no prazo concedido, à Coordenação de Gestão de Pessoas da SMS, 
+
+da Secretaria Municipal da Saúde, localizado na Rua da Grécia, nº 03, Edifício Caramuru, 5º andar, 
+
+Comércio, CEP: 40.010-010, nesta capital.
+
+NOME MATRICULA
+
+ANDRE LUIS MAGALHAES MACEDO 3139693
+
+COORDENADORIA DE GESTÃO DE PESSOAS DA SMS, 11 de janeiro de 2021.
+
+MARIA DO SOCORRO TANURE TELLES
+Coordenadora
+
+
+		http://www.dom.salvador.ba.gov.br/
+	2021-01-12T14:15:34-0300
+	Salvador, Bahia, Brasil
+	ANDREY DAS NEVES SANTOS:04996024550
+	O Gabinete do Prefeito garante a autenticidade deste documento quando visualizado diretamente no portal www.salvador.ba.gov.br
+
+
+
+
