@@ -11,7 +11,6 @@ class ExtractTopics():
             from bertopic.representation import OpenAI
             from bertopic import BERTopic
 
-            # Create your representation model
             client = openai.OpenAI(api_key="sk-")
             embedding_model = OpenAI(client) 
 
@@ -32,8 +31,7 @@ class ExtractTopics():
                 min_topic_size=5,
                 zeroshot_topic_list=zeroshot_topic_list,
                 zeroshot_min_similarity=.85,
-                representation_model=KeyBERTInspired())
-
+                representation_model=BERTopic(language='portuguese', min_topic_size=5, nr_topics="auto")) 
 
     def extract_topics(self, text):
 

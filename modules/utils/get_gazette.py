@@ -15,7 +15,7 @@ class GetGazette():
         self.PUBLISHED_UNTIL = PUBLISHED_UNTIL
         self.OUTPUT_DIR = OUTPUT_DIR
 
-        self.URL_SEARCH = f"https://queridodiario.ok.org.br/api/gazettes?territory_ids={TERRITORY_ID}&published_since={PUBLISHED_SINCE}&published_until={PUBLISHED_UNTIL}&excerpt_size=500&number_of_excerpts=1&size=10&sort_by=relevance"
+        self.URL_SEARCH = f"https://queridodiario.ok.org.br/api/gazettes?territory_ids={TERRITORY_ID}&published_since={PUBLISHED_SINCE}&published_until={PUBLISHED_UNTIL}&excerpt_size=500&number_of_excerpts=1&size=400&sort_by=ascending_date"
 
 
     def downloadGazette(self):
