@@ -51,13 +51,3 @@ class Ner():
         response  = model.generate(prompt)
         answer = response["answer"]
         return answer
-if __name__ == '__main__':
-    import spacy
-    OPENAI_API_KEY="sk-"
-    nlp = spacy.blank("en")
-    llm_ner = nlp.add_pipe("llm_ner")
-    llm_ner.add_label("PERSON")
-    llm_ner.add_label("LOCATION")
-    nlp.initialize()
-    doc = nlp("Jack and Jill rode up the hill in Les Deux Alpes")
-    print([(ent.text, ent.label_) for ent in doc.ents])
