@@ -3,7 +3,7 @@ class ExtractTopicsLLM():
         import maritalk
 
         self.model = maritalk.MariTalk(
-            key="104147566582134244375$a4a5837e87cfa860",
+            key="",
             model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
         )
 

@@ -24,29 +24,43 @@ class Ner():
         )
 
         main_prompt = """
-        You are an expert Named Entity Recognition (NER) system. Your task is to accept Text as input and extract named entities for the set of predefined entity labels. The output should be a python dictionary of named entities for each label.
-        From the text input provided, extract named entities for each label in the following format:
+        You are an advanced text analysis model skilled in Named Entity Recognition (NER). Your task is to identify and categorize named entities in a given text and present them in a Python dictionary format. Each category of entities should be a key in the dictionary, and the corresponding value should be a list of entities that fall under that category.
 
-        Person: <comma delimited list of strings>
-        Organization: <comma delimited list of strings>
-        Location: <comma delimited list of strings>
-        Date: <comma delimited list of strings>
-        Money: <comma delimited list of strings>
-        Time: <comma delimited list of strings>
+        Follow these steps:
+        1. Read the provided text carefully.
+        2. Identify the named entities and categorize them (e.g., Person, Organization, Location, Date, etc.).
+        3. For each category, list the identified entities.
+        4. Present your findings in a Python dictionary format.
 
-        Below are definitions of each label to help aid you in kinds of named entities to extract for each label.
-        Assume these definitions are written by an expert and follow the closely.
+        Here is the format of the dictionary you should use:
 
-        Person: Individual names of people.
-        Organization: Names of companies, institutions, etc.
-        Location: Geographical places.
-        Date: Specific dates or date ranges.
-        Time: Time references.
-        Money: Monetary values.
+        ```python
+        {
+            "Person": ["Entity1", "Entity2", ...],
+            "Organization": ["Entity1", "Entity2", ...],
+            "Location": ["Entity1", "Entity2", ...],
+            "Date": ["Entity1", "Entity2", ...],
+            ...
+        }
+        ```
 
-        Here is the text that needs labeling. Make sure you to only return the python dictionary and nothing more:
+        Example:
 
-        text: """
+        Input Text:
+        "Apple Inc. is planning to open a new office in San Francisco. Tim Cook, the CEO of Apple, announced that the opening will be in July 2023."
+
+        Output Dictionary:
+
+        ```python
+        {
+            "Organization": ["Apple Inc.", "Apple"],
+            "Location": ["San Francisco"],
+            "Person": ["Tim Cook"],
+            "Date": ["July 2023"]
+        }
+        ```
+        Here is the text that needs NER. Make sure you to only return the python dictionary and nothing more:
+        Text: """
         prompt = main_prompt + str(text)
         response  = model.generate(prompt)
         answer = response["answer"]
