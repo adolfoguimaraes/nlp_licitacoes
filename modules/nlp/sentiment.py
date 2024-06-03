@@ -1,12 +1,19 @@
-import spacy
-from spacytextblob.spacytextblob import SpacyTextBlob
 class Sentiment_analyze():
-    def __init__(self):
-        self.nlp = spacy.load('pt_core_news_lg')
-        self.nlp.add_pipe('spacytextblob')
+    def __init__(self, model='spacy'):
+        if model == 'spacy':
+            import spacy
+            from spacytextblob.spacytextblob import SpacyTextBlob
+            self.nlp = spacy.load('pt_core_news_lg')
+            self.nlp.add_pipe('spacytextblob')
+        if model == 'maritalk':
+            import maritalk
+            self.model = maritalk.MariTalk(
+                key="104147566582134244375$db094baa6042418d",
+                model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
+            )
 
-    def sentiment_analyze_spacy(text):
-        doc = nlp(text)
+    def sentiment_analyze_spacy(self, text):
+        doc = self.nlp(text)
         sentiment = doc._.polarity
         if sentiment > 0:
             return 'positive'
@@ -16,13 +23,6 @@ class Sentiment_analyze():
             return 'neutral'
         
     def sentiment_analyze_maritalk(self, text):
-        import maritalk
-
-        model = maritalk.MariTalk(
-            key="104147566582134244375$db094baa6042418d",
-            model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
-        )
-
         main_prompt = """
         Você é um analista de texto altamente qualificado. Sua tarefa é realizar uma análise de sentimento do texto fornecido e apresentar o resultado em uma única palavra. O resultado deve ser uma das seguintes opções: "positivo", "negativo" ou "neutro".
         Siga estas etapas:

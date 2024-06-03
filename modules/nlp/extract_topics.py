@@ -5,6 +5,7 @@ class ExtractTopics():
         from bertopic.vectorizers import ClassTfidfTransformer
         umap_model = UMAP(random_state=57)
         ctfidf_model = ClassTfidfTransformer(bm25_weighting=True, reduce_frequent_words=True)
+        
         if model == 'default':
             from bertopic import BERTopic
             self.bert_model = BERTopic(language='portuguese', min_topic_size=5, nr_topics="auto", umap_model=umap_model, ctfidf_model=ctfidf_model)
@@ -31,7 +32,7 @@ class ExtractTopics():
             from bertopic import BERTopic
 
             model = maritalk.MariTalk(
-                key="",
+                key="104147566582134244375$db094baa6042418d",
                 model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
             )
 

@@ -1,6 +1,6 @@
 import spacy
 class Ner():
-    def __init__(self, text_='token'):
+    def __init__(self):
         self.nlp = spacy.load('pt_core_news_lg')
 
     def extract_entities_tokens(self, tokens):
@@ -19,7 +19,7 @@ class Ner():
         import maritalk
 
         model = maritalk.MariTalk(
-            key="",
+            key="104147566582134244375$db094baa6042418d",
             model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
         )
 
@@ -40,25 +40,11 @@ class Ner():
             "Organization": ["Entity1", "Entity2", ...],
             "Location": ["Entity1", "Entity2", ...],
             "Date": ["Entity1", "Entity2", ...],
+            "Money": ["Entity1", "Entity2", ...],
             ...
         }
         ```
 
-        Example:
-
-        Input Text:
-        "Apple Inc. is planning to open a new office in San Francisco. Tim Cook, the CEO of Apple, announced that the opening will be in July 2023."
-
-        Output Dictionary:
-
-        ```python
-        {
-            "Organization": ["Apple Inc.", "Apple"],
-            "Location": ["San Francisco"],
-            "Person": ["Tim Cook"],
-            "Date": ["July 2023"]
-        }
-        ```
         Here is the text that needs NER. Make sure you to only return the python dictionary and nothing more:
         Text: """
         prompt = main_prompt + str(text)
