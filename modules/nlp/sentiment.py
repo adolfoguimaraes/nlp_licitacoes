@@ -34,6 +34,6 @@ class Sentiment_analyze():
         É importante que a saída seja apenas a análise de sentimento em uma única palavra, sem qualquer outro texto ou explicação.
         Texto:"""
         prompt = main_prompt + str(text)
-        response  = model.generate(prompt)
+        response  = self.model.generate(prompt)
         answer = response["answer"]
         return answer
