@@ -1,7 +1,7 @@
-import spacy
 class Ner():
     def __init__(self, model='spacy'):
         if model == 'spacy':
+            import spacy
             self.nlp = spacy.load('pt_core_news_lg')
         elif model == 'maritalk':
             import maritalk

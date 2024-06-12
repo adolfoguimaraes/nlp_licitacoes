@@ -1,4 +1,4 @@
-class Sentiment_analyze():
+class Sentiment():
     def __init__(self, model='spacy'):
         if model == 'spacy':
             import spacy
