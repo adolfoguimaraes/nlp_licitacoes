@@ -1,7 +1,15 @@
 import spacy
 class Ner():
-    def __init__(self):
-        self.nlp = spacy.load('pt_core_news_lg')
+    def __init__(self, model='spacy'):
+        if model == 'spacy':
+            self.nlp = spacy.load('pt_core_news_lg')
+        elif model == 'maritalk':
+            import maritalk
+
+            self.model = maritalk.MariTalk(
+                key="",
+                model="sabia-2-small"  #sabia-2-medium // sabia-2-small
+            )
 
     def extract_entities_tokens(self, tokens):
         text = ' '.join(tokens)
@@ -16,12 +24,6 @@ class Ner():
         return entities
         
     def extract_entities_maritalk(self, text):
-        import maritalk
-
-        model = maritalk.MariTalk(
-            key="104147566582134244375$db094baa6042418d",
-            model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
-        )
 
         main_prompt = """
         You are an advanced text analysis model skilled in Named Entity Recognition (NER). Your task is to identify and categorize named entities in a given text and present them in a Python dictionary format. Each category of entities should be a key in the dictionary, and the corresponding value should be a list of entities that fall under that category.
@@ -48,6 +50,6 @@ class Ner():
         Here is the text that needs NER. Make sure you to only return the python dictionary and nothing more:
         Text: """
         prompt = main_prompt + str(text)
-        response  = model.generate(prompt)
+        response  = self.model.generate(prompt)
         answer = response["answer"]
         return answer

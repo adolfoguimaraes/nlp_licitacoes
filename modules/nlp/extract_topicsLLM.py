@@ -3,8 +3,8 @@ class ExtractTopicsLLM():
         import maritalk
 
         self.model = maritalk.MariTalk(
-            key="104147566582134244375$db094baa6042418d",
-            model="sabia-2-small"  #modelos sabia-2-medium e sabia-2-small
+            key="",
+            model="sabia-2-small"  #sabia-2-medium // sabia-2-small
         )
 
     def extract_topics(self, text):
